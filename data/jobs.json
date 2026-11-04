@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T06:08:50.090Z",
+ "generatedAt": "2026-11-04T22:39:00.293Z",
  "sources": [
   {
    "name": "Himalayas",
@@ -18,6 +18,139 @@
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/pipeworks-studios/jobs/producer-purpose-driven-games",
+   "title": "Producer - Purpose-Driven Games",
+   "company": "Pipeworks Studios",
+   "logo": "https://cdn-images.himalayas.app/hgjd50bnhtbk6wjcnejhj4rnu4ax",
+   "url": "https://himalayas.app/companies/pipeworks-studios/jobs/producer-purpose-driven-games?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United States"
+   ],
+   "regions": [],
+   "locationText": "United States",
+   "type": "Contractor",
+   "salary": "$63k–82k/yr",
+   "level": 3,
+   "skills": {
+    "production": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "structure": 0.25,
+    "curiosity": 0.25,
+    "ownership": 0.75
+   },
+   "postedAt": "2026-11-04T18:59:47.000Z",
+   "snippet": "Pipeworks Studios is seeking a Producer to lead cross-disciplinary teams developing purpose-driven games and interactive experiences. The Producer will serve as the central point of contact among clients, studio leadership, project teams, and other stakeholders. This role coordinates development from concept through…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/focus-entertainment/jobs/blackmill-games-multiplayer-game-designer-f-h-nb",
+   "title": "BLACKMILL GAMES - Multiplayer Game Designer (F/H/NB)",
+   "company": "Focus Entertainment",
+   "logo": "",
+   "url": "https://himalayas.app/companies/focus-entertainment/jobs/blackmill-games-multiplayer-game-designer-f-h-nb?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Albania",
+    "Austria",
+    "Belarus",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Kosovo",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Ukraine",
+    "United Kingdom"
+   ],
+   "regions": [],
+   "locationText": "Europe (40 countries)",
+   "type": "Full Time",
+   "salary": "EUR 3k–4k/mo",
+   "level": 3,
+   "skills": {
+    "gameplay": 0.63,
+    "networking": 1,
+    "design": 1,
+    "production": 0.5
+   },
+   "engines": [],
+   "traits": {
+    "collab": 0.33,
+    "structure": 0.33,
+    "curiosity": 1,
+    "ownership": 0.33
+   },
+   "postedAt": "2026-11-04T18:57:14.000Z",
+   "snippet": "BlackMill Games is looking for a Multiplayer Game Designer to work on our series of WW1-themed multiplayer first-person shooters. The ideal candidate has a strong experience in designing online game experience. This is a full-time, 5 days a week, fully remote position. Responsibilities You are in charge of reviewing…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/micro1/jobs/game-developer",
+   "title": "Game Developer",
+   "company": "micro1",
+   "logo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+   "url": "https://himalayas.app/companies/micro1/jobs/game-developer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": true,
+   "countries": [],
+   "regions": [],
+   "locationText": "Worldwide",
+   "type": "Contractor",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "gameplay": 1,
+    "qa": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 0.5,
+    "structure": 1,
+    "curiosity": 0.5
+   },
+   "postedAt": "2026-11-04T13:00:10.000Z",
+   "snippet": "Role Title: Game Developer Role Type: Contractor Location: Remote micro1 is engaging Game Developers to contribute to a pioneering customer project focused on evaluating and advancing AI capabilities in the domain of game creation and interaction. In this role, you'll apply your expertise to help train next-generation…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/top-notch-consultancy/jobs/3d-animator",
    "title": "3D Animator",
@@ -250,35 +383,6 @@
    "traits": {},
    "postedAt": "2026-11-03T15:23:26.000Z",
    "snippet": "Job Title: Godot Game Engine Expert Job Type: Contract Location: Remote micro1 is looking for experienced Godot Game Engine specialists to support an AI training project. In this role, you will use Godot to complete real-world 2D and 3D game development tasks and explain your workflows step by step. Your expertise…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/micro1/jobs/game-developer",
-   "title": "Game Developer",
-   "company": "micro1",
-   "logo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
-   "url": "https://himalayas.app/companies/micro1/jobs/game-developer?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": true,
-   "countries": [],
-   "regions": [],
-   "locationText": "Worldwide",
-   "type": "Contractor",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "gameplay": 1,
-    "qa": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.5,
-    "structure": 1,
-    "curiosity": 0.5
-   },
-   "postedAt": "2026-11-03T13:00:11.000Z",
-   "snippet": "Role Title: Game Developer Role Type: Contractor Location: Remote micro1 is engaging Game Developers to contribute to a pioneering customer project focused on evaluating and advancing AI capabilities in the domain of game creation and interaction. In this role, you'll apply your expertise to help train next-generation…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/piranha-games-inc/jobs/senior-lighting-artist",
@@ -698,79 +802,6 @@
    },
    "postedAt": "2026-11-01T13:13:34.000Z",
    "snippet": "Programmer - Gameplay Reach Game Studios is looking for a talented gameplay programmer (Unreal Engine) to join and lead the gameplay team for the studio's upcoming online FPS RPG, GLORY . Responsibilities: As a Gameplay Programmer you will be responsible for: Working with the Design Director to shape key gameplay…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/focus-entertainment/jobs/blackmill-games-multiplayer-game-designer-f-h-nb",
-   "title": "BLACKMILL GAMES - Multiplayer Game Designer (F/H/NB)",
-   "company": "Focus Entertainment",
-   "logo": "",
-   "url": "https://himalayas.app/companies/focus-entertainment/jobs/blackmill-games-multiplayer-game-designer-f-h-nb?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Albania",
-    "Austria",
-    "Belarus",
-    "Belgium",
-    "Bosnia and Herzegovina",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Iceland",
-    "Ireland",
-    "Italy",
-    "Kosovo",
-    "Latvia",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Moldova",
-    "Montenegro",
-    "Netherlands",
-    "North Macedonia",
-    "Norway",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Serbia",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Sweden",
-    "Switzerland",
-    "Ukraine",
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "Europe (40 countries)",
-   "type": "Full Time",
-   "salary": "EUR 3k–4k/mo",
-   "level": 3,
-   "skills": {
-    "gameplay": 0.63,
-    "networking": 1,
-    "design": 1,
-    "production": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.33,
-    "structure": 0.33,
-    "curiosity": 1,
-    "ownership": 0.33
-   },
-   "postedAt": "2026-11-01T13:04:39.000Z",
-   "snippet": "BlackMill Games is looking for a Multiplayer Game Designer to work on our series of WW1-themed multiplayer first-person shooters. The ideal candidate has a strong experience in designing online game experience. This is a full-time, 5 days a week, fully remote position. Responsibilities You are in charge of reviewing…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-latam-spanish-freelance-remote",
@@ -5854,40 +5885,6 @@
    },
    "postedAt": "2026-10-24T19:32:09.000Z",
    "snippet": "About Us Streamline Media Group is a 25-year creative development studio specializing in full video game development, co-development, publishing, and interactive digital asset production. We have shipped titles across every major platform for clients, including Sony, Microsoft, and global AAA publishers. Description…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/changing-lives-productions-llc/jobs/sound-designer-editor",
-   "title": "Sound Designer & Editor",
-   "company": "Changing Lives Productions LLC",
-   "logo": "",
-   "url": "https://himalayas.app/companies/changing-lives-productions-llc/jobs/sound-designer-editor?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "India"
-   ],
-   "regions": [],
-   "locationText": "India",
-   "type": "Contractor",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "design": 1,
-    "narrative": 0.75,
-    "audio": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.75,
-    "structure": 1,
-    "curiosity": 0.25,
-    "ownership": 0.5,
-    "composure": 0.5
-   },
-   "postedAt": "2026-10-24T18:30:16.000Z",
-   "snippet": "ABOUT CHANGING LIVES PRODUCTIONS: Changing Lives Productions is the video production company of Dhar Mann Studios, aimed at creating positive content for the social media generation. Our short, motivational videos focused on life, business, and relationships receive over 1 Billion views monthly and have garnered over…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/streamline-studios/jobs/lead-character-artist",
