@@ -1,0 +1,44 @@
+# Refreshes data/jobs.json with live game-industry job listings twice a day.
+# The site reads that file, so no server or API keys are needed.
+name: Update job listings
+
+on:
+  schedule:
+    - cron: "17 5,17 * * *" # 05:17 and 17:17 UTC
+  workflow_dispatch: # lets you run it any time from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-jobs
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch and match jobs
+        run: node scripts/fetch-jobs.mjs
+
+      - name: Check data and logic
+        run: npm test
+
+      - name: Commit updated listings
+        run: |
+          if git diff --quiet -- data/jobs.json; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/jobs.json
+          git commit -m "Update job listings"
+          git push

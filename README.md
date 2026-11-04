@@ -1,62 +1,91 @@
-# Skill Tree: game dev career match
+# Skill Tree: swipe into a game dev job
 
-A GitHub Pages site (https://lild3x.github.io) that:
+https://lild3x.github.io. Think of it as Tinder for game-industry jobs, except the match is based on what the
+**employer actually asks for** (skills, seniority and characteristics) against what the candidate **proved**.
 
-1. Asks **where you're based** and **how you want to work** (remote, hybrid, on-site, any).
-2. Lets you **pick up to 4 game-dev skills** out of 13: Gameplay Programming, Unity, Unreal, Graphics, Networking,
-   Game Design, Level Design, UI/UX, Narrative, 3D Art, Audio, QA and Production.
-3. Runs an **adaptive skill quiz**. Each skill has 4 levels. A right answer moves you up a level; a miss gets one
-   retry with a different question; a second miss stops that skill. "I don't know" is always an option,
-   so guessing doesn't inflate results.
-4. Asks **17 work-style questions** to see how you work with people, not just what you know (see below).
-5. **Matches you to roles** (70% skill depth, 30% work-style fit) with a suggested level
-   (entry, junior, mid or senior), the team environment that suits you, and **pre-filled job searches** on LinkedIn, Indeed
-   and Google Jobs for your location and work preference, plus game-industry boards.
+1. **Where you are:** country (so you only see jobs you're allowed to take) and how you want to work.
+2. **Pick up to 4 skills** out of 13: Gameplay Programming, Unity, Unreal, Graphics, Networking, Game Design,
+   Level Design, UI/UX, Narrative, 3D Art, Audio, QA and Production.
+3. **Adaptive skill quiz:** 4 levels per skill. A right answer moves you up; a miss gets one retry with a different
+   question; a second miss stops that skill. "I don't know" is always there, so guessing doesn't inflate results.
+4. **17 work-style questions** that are hard to fake (see below).
+5. **Swipe real job listings**, ranked for you. Right saves, left passes, and ↺ undoes. Each card shows the match %,
+   **what the employer needs vs. what you showed**, and the traits their listing asks for. Saved jobs link
+   to the original listing to apply.
 
-One question per screen, with a progress bar. Works on phones, supports light/dark mode, and you can answer with the
-keyboard (1–4 / A–D, 0 = "I don't know").
+The **Profile** tab shows your skill depth, work style, best team environment, answer consistency, and
+best-fit roles with pre-filled LinkedIn / Indeed / Google Jobs searches (useful for on-site roles).
+
+## How jobs are found and matched
+
+```
+GitHub Action (twice a day)                         Browser
+┌───────────────────────────────┐                   ┌──────────────────────────────┐
+│ scripts/fetch-jobs.mjs        │  data/jobs.json   │ js/jobs/match.js             │
+│  • Himalayas, Remotive, Jobicy│ ───────────────▶  │  • drop jobs not open in     │
+│  • keep game-industry jobs    │                   │    your country              │
+│  • read each listing for:     │                   │  • 55% skill fit             │
+│    skills + how central       │                   │  • 25% characteristic fit    │
+│    seniority, traits wanted,  │                   │  • 20% seniority fit         │
+│    other engines, countries   │                   │  • sort → swipe deck         │
+└───────────────────────────────┘                   └──────────────────────────────┘
+```
+
+- **Employer needs** come from the listing text (`scripts/lib/extract.mjs`). A skill in the title counts most;
+  repeated mentions add up; anything under "nice to have / bonus" counts half. Engines the quiz doesn't cover
+  (Godot, GameMaker, Roblox…) count as requirements you haven't proven.
+- **Employer characteristics** come from listing language: "collaborate / cross-functional" → Collaboration,
+  "self-starter / independently" → Independence, "detail-oriented" → Structure, "prototype / experiment" →
+  Curiosity, "ownership / proactive" → Initiative, "fast-paced / under pressure" → Composure.
+- It's keyword-based, so it's a well-informed guess. Always read the full listing.
+
+All the sources are remote-job boards, so the deck holds remote roles. For on-site or hybrid, use the role
+searches in the Profile tab.
+
+### Refreshing listings
+
+`.github/workflows/update-jobs.yml` runs at 05:17 and 17:17 UTC and commits `data/jobs.json`. Run it any time from
+**Actions → Update job listings → Run workflow**. GitHub pauses scheduled workflows after 60 days with no repository
+activity; re-enable it from the same page if that happens. If a source is down, the previous data is kept.
+
+Sources' terms are respected: every card credits its source and links to the original listing, and requests stay
+within each API's limits (Remotive asks for at most 4 per day).
 
 ## How the work-style questions resist faking
 
-No questionnaire is impossible to lie on, but these techniques make it much harder:
+No questionnaire is impossible to lie on, but these make it much harder:
 
-- **Forced choice:** each question pairs two equally positive statements, so there's no "good answer" to pick.
-- **Realistic scenarios:** "a playtester says your part isn't fun, you…", where every option is reasonable.
-- **Hidden repeats:** three questions come back later, reworded and in a different order. If the answers
-  contradict each other, the **Answer consistency** score drops.
-- **Timing:** answers faster than someone could read both options are flagged as rushed.
+- **Forced choice** between two equally positive statements, so there's no "good answer".
+- **Realistic scenarios** where every option is reasonable.
+- **Hidden repeats:** three questions come back reworded and reordered; contradictions lower **Answer consistency**.
+- **Timing:** answers faster than anyone could read are flagged as rushed.
 - Option order is shuffled every time.
 
 ## Privacy
 
-Everything runs in the browser. No answers are stored or sent anywhere; job boards only open when you click a link.
+Everything runs in the browser. Your profile, saved and passed jobs stay in this browser's storage; nothing is sent
+anywhere. Job sites only see you when you open a listing.
 
 ## Files
 
 | Path | What it is |
 |---|---|
 | `index.html`, `css/style.css` | Page shell and styling |
-| `js/app.js` | The screen-by-screen UI |
-| `js/engine.js` | Logic: adaptive quiz, scoring, role matching, job links (no DOM, unit-tested) |
-| `js/data/skills.js` | Skills and quiz questions (4 levels × 2 questions each) |
-| `js/data/workstyle.js` | Work-style traits and questions |
-| `js/data/roles.js` | Roles, what skills/traits they need, and search keywords |
-| `test/engine.test.js` | Tests for the logic and the data files |
-
-To **add a skill**, add an entry to `js/data/skills.js` (and a role that uses it in `roles.js`).
-`npm test` checks that the new data is well formed.
+| `js/app.js` | Screen-by-screen UI and the swipe deck |
+| `js/engine.js` | Adaptive quiz, work-style scoring, role matching, search links |
+| `js/jobs/match.js` | Scores real listings against your profile |
+| `js/ui/swipe.js` | Drag/swipe gesture |
+| `js/data/*.js` | Quiz questions, work-style items, roles, countries/regions |
+| `scripts/fetch-jobs.mjs`, `scripts/lib/extract.mjs` | Job feed builder (run by the Action) |
+| `data/jobs.json` | Current listings |
+| `test/` | Tests for the logic, data and extraction |
 
 ## Run locally
 
-Requires Node.js 18+, nothing to install.
+Node.js 18+ (22 recommended), nothing to install.
 
 ```bash
-npm start   # http://localhost:3000
+npm start                      # http://localhost:3000
 npm test
+node scripts/fetch-jobs.mjs    # refresh data/jobs.json (Node 22 for fetch)
 ```
-
-## Going further
-
-Job matching links out to real job boards with your search filled in. To show actual listings inside the
-page and rank them, you'd add a jobs API (most need an API key, which can't safely live in a public
-GitHub Pages site) behind a small backend.

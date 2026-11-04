@@ -1,12 +1,13 @@
 {
   "name": "skill-tree",
   "version": "1.0.0",
-  "description": "Game development career match: adaptive skill quiz + work-style questions -> role matches and job searches. Static site for GitHub Pages.",
+  "description": "Swipe-style game dev job matcher: adaptive skill quiz + work-style questions matched against real job listings. Static site for GitHub Pages.",
   "private": true,
   "type": "module",
   "scripts": {
     "start": "node scripts/serve.mjs",
-    "test": "node --test test/*.test.js"
+    "test": "node --test test/*.test.js",
+    "fetch-jobs": "node scripts/fetch-jobs.mjs"
   },
   "engines": {
     "node": ">=18"
