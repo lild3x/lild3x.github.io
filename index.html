@@ -1,9 +1,48 @@
-<html>
- 
-<body>
-  <h1>Big D3x</h1>
-  <p>Welcome to my website!</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
-</body>
- 
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Skill Tree · Game Dev Career Match</title>
+    <meta
+      name="description"
+      content="Pick your game development skills, prove them in an adaptive quiz, answer work-style questions, and get matched to roles and job searches."
+    />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <script type="module" src="js/app.js"></script>
+  </head>
+  <body>
+    <div class="shell">
+      <header class="topbar">
+        <a class="brand" href="./" aria-label="Skill Tree home">
+          <span class="brand-mark" aria-hidden="true">◆</span> Skill Tree
+        </a>
+        <span id="step-label" class="step-label"></span>
+      </header>
+      <div
+        id="progress"
+        class="progress"
+        role="progressbar"
+        aria-label="Progress"
+        aria-valuemin="0"
+        aria-valuemax="100"
+        hidden
+      >
+        <div id="progress-bar" class="progress-bar"></div>
+      </div>
+
+      <main id="stage" class="stage" aria-live="polite">
+        <noscript>This page needs JavaScript to run the quiz.</noscript>
+      </main>
+
+      <footer class="footer">Made by Big D3x</footer>
+    </div>
+  </body>
 </html>
