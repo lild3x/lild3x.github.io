@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-05T13:14:07.440Z",
+ "generatedAt": "2026-11-05T22:41:35.650Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 221
+   "jobs": 223
   },
   {
    "name": "Remotive",
@@ -18,6 +18,294 @@
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/2d-game-developer-defold-remote-contract",
+   "title": "2D Game Developer (Defold) | Remote - Contract",
+   "company": "Xperteez Technology",
+   "logo": "https://cdn-images.himalayas.app/m68vtboghdo71fvod2gepzj5tyf1",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/2d-game-developer-defold-remote-contract?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United States"
+   ],
+   "regions": [],
+   "locationText": "United States",
+   "type": "Contractor",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "gameplay": 1
+   },
+   "engines": [
+    "Defold"
+   ],
+   "traits": {},
+   "postedAt": "2026-11-05T22:14:32.000Z",
+   "snippet": "Role Title: 2D Game Developer (Defold) Role Type: Contractor Location: Remote We are looking for experienced Defold developers to support an AI training project. In this role, you will use Defold to complete real-world game development tasks and explain your workflows step by step. Your expertise will help improve how…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/solar2d-game-developer-remote-contract",
+   "title": "Solar2D Game Developer | Remote - Contract",
+   "company": "Xperteez Technology",
+   "logo": "https://cdn-images.himalayas.app/m68vtboghdo71fvod2gepzj5tyf1",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/solar2d-game-developer-remote-contract?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United States"
+   ],
+   "regions": [],
+   "locationText": "United States",
+   "type": "Contractor",
+   "salary": "$70–130/hr",
+   "level": 3,
+   "skills": {
+    "gameplay": 1,
+    "design": 0.5
+   },
+   "engines": [
+    "Solar2D"
+   ],
+   "traits": {},
+   "postedAt": "2026-11-05T21:34:51.000Z",
+   "snippet": "Job Title: Solar2D Game Developer Job Type: Contractor Location: Remote We are looking for experienced Solar2D developers to support an AI training project. In this role, you will use Solar2D to complete real-world 2D game development tasks and explain your workflows step by step. Your expertise will help improve how…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/homa-games/jobs/ai-creative-producer",
+   "title": "AI Creative Producer",
+   "company": "Homa Games",
+   "logo": "https://cdn-images.himalayas.app/we3259lqsgt4gnze7qnowcbnh9x0",
+   "url": "https://himalayas.app/companies/homa-games/jobs/ai-creative-producer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Albania",
+    "Austria",
+    "Belarus",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Kosovo",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Ukraine",
+    "United Kingdom"
+   ],
+   "regions": [],
+   "locationText": "Europe (40 countries)",
+   "type": "Contractor",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "production": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.33,
+    "curiosity": 1,
+    "ownership": 1
+   },
+   "postedAt": "2026-11-05T21:28:58.000Z",
+   "snippet": "Homa is a global mobile game developer and publisher creating games people love. We partner with studios and internally develop games, having launched over 80 titles, reached over 2 billion downloads, and seen our game All in Hole break into the global top-50 grossing charts. These are milestones, not the finish line.…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/godot-game-engine-expert-remote-contract",
+   "title": "🌎 Godot Game Engine Expert, Remote- Contract",
+   "company": "Xperteez Technology",
+   "logo": "https://cdn-images.himalayas.app/m68vtboghdo71fvod2gepzj5tyf1",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/godot-game-engine-expert-remote-contract?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United States"
+   ],
+   "regions": [],
+   "locationText": "United States",
+   "type": "Contractor",
+   "salary": "$70–130/hr",
+   "level": 4,
+   "skills": {
+    "gameplay": 1
+   },
+   "engines": [
+    "Godot"
+   ],
+   "traits": {},
+   "postedAt": "2026-11-05T20:29:35.000Z",
+   "snippet": "Job Title: Godot Game Engine Expert Job Type: Contract Location: Remote Required Skills: Godot Game Development In this role, you will use Godot to complete real-world 2D and 3D game development tasks and explain your workflows step by step. Your expertise will help improve how AI systems understand game development.…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/cd-projekt-red/jobs/senior-gameplay-programmer",
+   "title": "Senior Gameplay Programmer",
+   "company": "CD PROJEKT RED",
+   "logo": "https://cdn-images.himalayas.app/5ye6wsvhqi8ik2s2aavcitzvkj1p",
+   "url": "https://himalayas.app/companies/cd-projekt-red/jobs/senior-gameplay-programmer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Canada"
+   ],
+   "regions": [],
+   "locationText": "Canada",
+   "type": "Full Time",
+   "salary": "CAD 127k–210k/yr",
+   "level": 4,
+   "skills": {
+    "gameplay": 1,
+    "unreal": 0.63
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.4,
+    "ownership": 0.2,
+    "composure": 0.2
+   },
+   "postedAt": "2026-11-05T20:09:55.000Z",
+   "snippet": "CD PROJEKT RED is looking for a Senior Gameplay Programmer , with a focus on Camera features, to join our team to work on Cyberpunk 2, the follow-up to Cyberpunk 2077. In this role you will collaborate with our team working in Unreal Engine 5 to build new camera mechanics and features to generate compelling gameplay…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/people-can-fly/jobs/animateur-technique-senior-senior-technical-animator",
+   "title": "Animateur technique senior / Senior Technical Animator",
+   "company": "People Can Fly",
+   "logo": "https://cdn-images.himalayas.app/5889pjnihoh7ijl60bq5k7iqd0hz",
+   "url": "https://himalayas.app/companies/people-can-fly/jobs/animateur-technique-senior-senior-technical-animator?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Canada"
+   ],
+   "regions": [],
+   "locationText": "Canada",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.5,
+    "unreal": 0.5,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.67,
+    "structure": 0.33,
+    "curiosity": 0.67,
+    "ownership": 0.33,
+    "composure": 0.33
+   },
+   "postedAt": "2026-11-05T19:50:47.000Z",
+   "snippet": "Establish and maintain the production and software pipeline and meet deadlines in collaboration with the Lead. Creating high quality characters, creatures and props rigging and skinning suitable technically to project the desired universe. Autonomously Implementing rigging for characters in Maya including cloth,…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/usobi/jobs/spine-2d-animator-slot-game",
+   "title": "Spine 2D Animator (slot game)",
+   "company": "Usobi",
+   "logo": "https://cdn-images.himalayas.app/zcbb29mto3po7ni6udlbwhrt7usn",
+   "url": "https://himalayas.app/companies/usobi/jobs/spine-2d-animator-slot-game?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "China",
+    "Malaysia",
+    "Singapore",
+    "Taiwan"
+   ],
+   "regions": [],
+   "locationText": "Asia-Pacific (4 countries)",
+   "type": "Full Time",
+   "salary": "$2k/mo",
+   "level": 3,
+   "skills": {
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1
+   },
+   "postedAt": "2026-11-05T19:36:18.000Z",
+   "snippet": "Nationality: Taiwanese, Malaysian, Chinese, or Singaporean Remote Language: Mandarin is the primary working language. Ability to read basic English documents is required. Salary Range: 2000 USD Headcount:3 Hiring Priority: Urgent Employment Type: Permanent Job Overview We are looking for a Spine 2D Animator to create…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/godot-game-developer-remote-contract",
+   "title": "🌍 Godot Game Developer, Remote- Contract",
+   "company": "Xperteez Technology",
+   "logo": "https://cdn-images.himalayas.app/m68vtboghdo71fvod2gepzj5tyf1",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/godot-game-developer-remote-contract?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United States"
+   ],
+   "regions": [],
+   "locationText": "United States",
+   "type": "Contractor",
+   "salary": "$20–60/hr",
+   "level": 3,
+   "skills": {
+    "gameplay": 1,
+    "unity": 0.5,
+    "qa": 0.5
+   },
+   "engines": [
+    "Godot"
+   ],
+   "traits": {
+    "collab": 1,
+    "structure": 1,
+    "curiosity": 0.5,
+    "ownership": 0.5
+   },
+   "postedAt": "2026-11-05T14:20:36.000Z",
+   "snippet": "Role Title: Godot Game Developer Role Type: Contract Location: Remote Required Skills: Godot engine Gdscript C# Gameplay systems design Scene management Asset integration Visual scripting Game debugging Code review Performance optimization Playtesting Documentation Written communication Problem-solving Mentorship In…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/tripledot-studios/jobs/game-designer-lion-studios-turkish-market-6955103477",
    "title": "Game Designer - Lion Studios - Turkish Market",
@@ -5163,39 +5451,6 @@
    "snippet": "iLogos Game Studios provides solutions for mobile game developers no matter how challenging the project or task is. We’ve been around since 2006 and in that time frame, we have successfully completed 400+ projects and have become a partner of choice for EA, Sony, Disney, Rovio, Ubisoft, and many other companies. Our…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/atomic-arts-pvt-ltd/jobs/creative-supervisor",
-   "title": "Creative Supervisor",
-   "company": "Atomic Arts Pvt. Ltd.",
-   "logo": "https://cdn-images.himalayas.app/40japhfx6i09cj9iymsuevfh383m",
-   "url": "https://himalayas.app/companies/atomic-arts-pvt-ltd/jobs/creative-supervisor?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "India"
-   ],
-   "regions": [],
-   "locationText": "India",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "unreal": 0.88,
-    "graphics": 0.75,
-    "narrative": 0.88,
-    "art3d": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.33,
-    "curiosity": 0.67,
-    "ownership": 1
-   },
-   "postedAt": "2026-10-26T10:27:18.000Z",
-   "snippet": "Job Description: We are seeking a visionary Creative Supervisor to lead our VFX and Virtual Production teams, driving innovation in storytelling, cinematics, and real-time workflows using Unreal Engine. This role requires a unique blend of artistic leadership, technical expertise, and a deep understanding of the…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/level-designer",
    "title": "Level Designer",
    "company": "Pole To Win International",
@@ -5952,40 +6207,6 @@
    },
    "postedAt": "2026-10-24T17:21:08.000Z",
    "snippet": "Future Opportunities – Join Our Talent Pool We are always looking for talented freelance artists to work with Streamline Studios . While there is no immediate opening for this role, you can submit your application to be considered for future freelance/contract opportunities. We will review your profile and contact you…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/streamline-studios/jobs/3d-character-artist",
-   "title": "3D Character Artist",
-   "company": "Streamline Studios",
-   "logo": "https://cdn-images.himalayas.app/i7tbiyncvfhjithkx5n7tdzekj3x",
-   "url": "https://himalayas.app/companies/streamline-studios/jobs/3d-character-artist?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Malaysia"
-   ],
-   "regions": [],
-   "locationText": "Malaysia",
-   "type": "Contractor",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "gameplay": 0.5,
-    "unreal": 0.88,
-    "graphics": 0.63,
-    "art3d": 1,
-    "production": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "curiosity": 1,
-    "ownership": 0.67
-   },
-   "postedAt": "2026-10-24T17:12:15.000Z",
-   "snippet": "About Us Streamline Media Group is a 25-year creative development studio specializing in full video game development, co-development, publishing, and interactive digital asset production. We have shipped titles across every major platform for clients, including Sony, Microsoft, and global AAA publishers. Description…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/streamline-studios/jobs/software-engineer-4640322213",
@@ -7701,77 +7922,6 @@
    "snippet": "Who are we? Tripledot Studios is one of the largest independent mobile games companies in the world. We are a multi-award-winning organisation, with a global 2,500+ strong team across 12 studios. Our expanded portfolio includes some of the biggest titles in mobile gaming, collectively reaching top chart positions…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/partyhat/jobs/animator",
-   "title": "Animator",
-   "company": "Partyhat",
-   "logo": "https://cdn-images.himalayas.app/ffx1dlm3f1kjw6ihm0dekpkem7zx",
-   "url": "https://himalayas.app/companies/partyhat/jobs/animator?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Argentina",
-    "Brazil",
-    "Canada",
-    "Colombia",
-    "Latvia",
-    "Poland",
-    "Romania",
-    "Serbia",
-    "Slovenia"
-   ],
-   "regions": [],
-   "locationText": "Europe (9 countries)",
-   "type": "Full Time",
-   "salary": "",
-   "level": 2,
-   "skills": {
-    "graphics": 0.5,
-    "art3d": 1,
-    "production": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.5,
-    "autonomy": 1,
-    "structure": 0.5,
-    "curiosity": 0.5,
-    "composure": 0.5
-   },
-   "postedAt": "2026-10-16T01:00:26.000Z",
-   "snippet": "The Mission Static user interfaces and uninspired motion design are completely dead to us. We need a \"Visual Kineticist\" to bring the Partyhat web ecosystem to life. Your job is to inject raw motion, dynamic pacing, and spectacular visual effects into our digital canvas—transforming flat designs into living,…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/panic-stations/jobs/senior-3d-generalist-artist-6-month-contract",
-   "title": "Senior 3D Generalist Artist - 6 month contract",
-   "company": "Panic Stations",
-   "logo": "",
-   "url": "https://himalayas.app/companies/panic-stations/jobs/senior-3d-generalist-artist-6-month-contract?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "United Kingdom",
-   "type": "Contractor",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.33
-   },
-   "postedAt": "2026-10-15T18:43:28.000Z",
-   "snippet": "We’re a games studio focused on building games that bring people together. We believe that games that deliver the most fun-per-minute have the highest chance of success. We are a start-up and not a big company, which means we’re a bit scrappy but we’re resourceful, highly collaborative and focused on outcomes and…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/sperasoft/jobs/unreal-engine-4-5-c-developer-7013444607",
    "title": "Unreal Engine 4/5 C++ Developer",
    "company": "Sperasoft",
@@ -7944,38 +8094,6 @@
    },
    "postedAt": "2026-10-11T04:56:55.000Z",
    "snippet": "Job Name: Unity Engineer Job City: Los Angeles, CA Job Location: Fully Remote Position is Fully Remote, but applicants must be authorized to work in the United States. GigXR () is a leading provider of immersive learning solutions, specializing in transforming healthcare and educational training through cutting-edge…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/play-magic/jobs/technical-artist-malta-remote",
-   "title": "Technical Artist (Malta/Remote)",
-   "company": "Play Magic",
-   "logo": "https://cdn-images.himalayas.app/m9o7ams9433clq3aobok9gtlam5c",
-   "url": "https://himalayas.app/companies/play-magic/jobs/technical-artist-malta-remote?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Malta"
-   ],
-   "regions": [],
-   "locationText": "Malta",
-   "type": "Full Time",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "unreal": 0.75,
-    "graphics": 1,
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "curiosity": 0.33,
-    "ownership": 0.33
-   },
-   "postedAt": "2026-10-08T23:48:40.000Z",
-   "snippet": "Malta or remote, fulltime YOURRESPONSIBILITIES: Work closely with Tech and Art departments and act as alink to ensure that there is proper communication and understanding betweenthem. Lead the RnD together with the otherTechnical Artists for all tech art subjects of the given projects, looking waysto improve Art…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/play-magic/jobs/experienced-ue4-ue5-programmer-mexico-remote",
@@ -8713,39 +8831,6 @@
    },
    "postedAt": "2026-09-21T22:54:31.000Z",
    "snippet": "Astrid is a gaming studio that brings together accomplished worldbuilders and game developers to create multiplayer creative experiences. Our first project is a cooperative open-world sim, designed to foster connection, problem-solving, and shared discovery. Players embark on a profound social experience in a richly…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/astrid-entertainment/jobs/senior-gameplay-engineer-ui",
-   "title": "Senior Gameplay Engineer - UI",
-   "company": "Astrid Entertainment",
-   "logo": "",
-   "url": "https://himalayas.app/companies/astrid-entertainment/jobs/senior-gameplay-engineer-ui?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "United Kingdom",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 1,
-    "unreal": 0.75,
-    "uiux": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "curiosity": 1,
-    "ownership": 1,
-    "composure": 0.25
-   },
-   "postedAt": "2026-09-21T18:58:29.000Z",
-   "snippet": "Senior Gameplay Engineer Astrid is a gaming studio that brings together accomplished worldbuilders and game developers to create multiplayer creative experiences. Our first project is a cooperative open-world sim, designed to foster connection, problem-solving, and shared discovery. Players embark on a profound social…"
   }
  ]
 }
