@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-04T22:39:00.293Z",
+ "generatedAt": "2026-11-05T13:14:07.440Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 222
+   "jobs": 221
   },
   {
    "name": "Remotive",
@@ -18,6 +18,72 @@
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/tripledot-studios/jobs/game-designer-lion-studios-turkish-market-6955103477",
+   "title": "Game Designer - Lion Studios - Turkish Market",
+   "company": "Tripledot Studios",
+   "logo": "https://cdn-images.himalayas.app/aqyxej53pshhbunsvkfa93oks28a",
+   "url": "https://himalayas.app/companies/tripledot-studios/jobs/game-designer-lion-studios-turkish-market-6955103477?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Turkey"
+   ],
+   "regions": [],
+   "locationText": "Turkey",
+   "type": "Full Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "gameplay": 0.5,
+    "design": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.17,
+    "curiosity": 0.5,
+    "ownership": 0.17
+   },
+   "postedAt": "2026-11-05T07:56:59.000Z",
+   "snippet": "Who are we? Tripledot Studios is one of the largest independent mobile games companies in the world. We are a multi-award-winning organisation, with a global 2,500+ strong team across 12 studios. Our expanded portfolio includes some of the biggest titles in mobile gaming, collectively reaching top chart positions…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/telos-media/jobs/unreal-engine-cinematic-artist-previz-camera-work",
+   "title": "Unreal Engine Cinematic Artist (Previz & Camera Work)",
+   "company": "Telos Media",
+   "logo": "https://cdn-images.himalayas.app/avrywduiqojyfdqqqq130llun1ww",
+   "url": "https://himalayas.app/companies/telos-media/jobs/unreal-engine-cinematic-artist-previz-camera-work?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Vietnam"
+   ],
+   "regions": [],
+   "locationText": "Vietnam",
+   "type": "Full Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "unreal": 1,
+    "narrative": 1,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.25,
+    "structure": 0.5,
+    "curiosity": 0.25,
+    "ownership": 0.5
+   },
+   "postedAt": "2026-11-04T22:50:51.000Z",
+   "snippet": "About the Role Atrium is a YouTube channel focused on bringing history to life through immersive visual storytelling, from exploring Hitler’s final hours to recreating the conditions of Auschwitz. We’re looking for a full-time 3D Layout Artist to help shape the visual direction of our content through cinematic scene…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/pipeworks-studios/jobs/producer-purpose-driven-games",
    "title": "Producer - Purpose-Driven Games",
@@ -641,40 +707,6 @@
    },
    "postedAt": "2026-11-02T13:22:30.000Z",
    "snippet": "Role Title: Godot Game Developer Role Type: Contractor Location: Remote micro1 is engaging Godot Game Developers to participate in a dynamic project for a valued customer, focusing on crafting engaging interactive experiences using the Godot engine. In this role, you'll apply your expertise to help train…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/digital-extremes/jobs/senior-technical-designer",
-   "title": "Senior Technical Designer",
-   "company": "Digital Extremes",
-   "logo": "https://cdn-images.himalayas.app/8yxotpbsu9k6lbhbyoto3b7hlrc0",
-   "url": "https://himalayas.app/companies/digital-extremes/jobs/senior-technical-designer?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Canada"
-   ],
-   "regions": [],
-   "locationText": "Canada",
-   "type": "Full Time",
-   "salary": "CAD 115k–130k/yr",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.5,
-    "design": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.33,
-    "structure": 0.33,
-    "curiosity": 1,
-    "ownership": 0.67,
-    "composure": 0.33
-   },
-   "postedAt": "2026-11-02T08:27:27.000Z",
-   "snippet": "ABOUT THIS POSITION Do you want to Create and implement the technical elements of game features? Do you enjoy working with other technical designers, programmers, and colleagues from other disciplines? If yes, the Senior Technical Designer role at Digital Extremes may be what you are looking for. The Senior Technical…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/pandvil/jobs/ui-graphic-designer",
@@ -5065,38 +5097,6 @@
    "snippet": "Crystal Dynamics is constantly seeking the best gaming talent worldwide to add to our 30-plus year legacy of game development creating new and iconic franchises. We are committed to making great games with great people and living the dream while doing it. Benefits for our regular full-time positions include, but are…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/ilogos-game-studios/jobs/unity-technical-artist",
-   "title": "Unity Technical Artist",
-   "company": "iLogos Game Studios",
-   "logo": "https://cdn-images.himalayas.app/a2h12d2uwghdrsw96ohte7r3ukbm",
-   "url": "https://himalayas.app/companies/ilogos-game-studios/jobs/unity-technical-artist?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Estonia"
-   ],
-   "regions": [],
-   "locationText": "Estonia",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "unity": 1,
-    "graphics": 1,
-    "networking": 0.5,
-    "art3d": 0.88
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "composure": 0.2
-   },
-   "postedAt": "2026-10-27T09:01:24.000Z",
-   "snippet": "iLogos Game Studios provides solutions for mobile game developers no matter how challenging the project or task is. We’ve been around since 2006 and in that time frame, we have successfully completed 400+ projects and have become a partner of choice for EA, Sony, Disney, Rovio, Ubisoft, and many other companies. Our…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/ilogos-game-studios/jobs/art-lead-mobile-multiplayer-shooter",
    "title": "Art Lead - Mobile Multiplayer Shooter",
    "company": "iLogos Game Studios",
@@ -5952,6 +5952,40 @@
    },
    "postedAt": "2026-10-24T17:21:08.000Z",
    "snippet": "Future Opportunities – Join Our Talent Pool We are always looking for talented freelance artists to work with Streamline Studios . While there is no immediate opening for this role, you can submit your application to be considered for future freelance/contract opportunities. We will review your profile and contact you…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/streamline-studios/jobs/3d-character-artist",
+   "title": "3D Character Artist",
+   "company": "Streamline Studios",
+   "logo": "https://cdn-images.himalayas.app/i7tbiyncvfhjithkx5n7tdzekj3x",
+   "url": "https://himalayas.app/companies/streamline-studios/jobs/3d-character-artist?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Malaysia"
+   ],
+   "regions": [],
+   "locationText": "Malaysia",
+   "type": "Contractor",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "gameplay": 0.5,
+    "unreal": 0.88,
+    "graphics": 0.63,
+    "art3d": 1,
+    "production": 0.5
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 1,
+    "ownership": 0.67
+   },
+   "postedAt": "2026-10-24T17:12:15.000Z",
+   "snippet": "About Us Streamline Media Group is a 25-year creative development studio specializing in full video game development, co-development, publishing, and interactive digital asset production. We have shipped titles across every major platform for clients, including Sony, Microsoft, and global AAA publishers. Description…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/streamline-studios/jobs/software-engineer-4640322213",
@@ -7213,35 +7247,6 @@
    "snippet": "Airship is the leading end-to-end external art and co-development studio for the global gaming industry. We've partnered with some of the biggest names in gaming— EA, 2K, Guerrilla, Sony, 343 Industries, Ubisoft, and Microsoft —to bring their flagship titles to life with stunning visuals and seamless development…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/modsquad/jobs/remote-technical-customer-support-qa-and-game-dev-7-26-7444595468",
-   "title": "Remote Technical Customer Support - QA and Game Dev - 7/26",
-   "company": "ModSquad",
-   "logo": "https://cdn-images.himalayas.app/d5dppkmtdwgsp6uvk379azzxmjpm",
-   "url": "https://himalayas.app/companies/modsquad/jobs/remote-technical-customer-support-qa-and-game-dev-7-26-7444595468?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "India"
-   ],
-   "regions": [],
-   "locationText": "India",
-   "type": "Part Time",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "gameplay": 1,
-    "qa": 0.88
-   },
-   "engines": [],
-   "traits": {
-    "structure": 1
-   },
-   "postedAt": "2026-10-19T09:13:03.000Z",
-   "snippet": "We Could Use Someone Like You in Our Crew. ModSquad is looking for tech support agents to provide top notch service to our customers! We are looking for a top notch T1 and Advanced Technical Support agent with a lot tech savvy to provide assistance on a developer' platform. This is a 24/7 project seeking at least 20…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/livefront/jobs/senior-data-engineer-databricks-6715514726",
    "title": "Senior Data Engineer (Databricks)",
    "company": "Livefront",
@@ -7941,6 +7946,38 @@
    "snippet": "Job Name: Unity Engineer Job City: Los Angeles, CA Job Location: Fully Remote Position is Fully Remote, but applicants must be authorized to work in the United States. GigXR () is a leading provider of immersive learning solutions, specializing in transforming healthcare and educational training through cutting-edge…"
   },
   {
+   "id": "himalayas:https://himalayas.app/companies/play-magic/jobs/technical-artist-malta-remote",
+   "title": "Technical Artist (Malta/Remote)",
+   "company": "Play Magic",
+   "logo": "https://cdn-images.himalayas.app/m9o7ams9433clq3aobok9gtlam5c",
+   "url": "https://himalayas.app/companies/play-magic/jobs/technical-artist-malta-remote?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Malta"
+   ],
+   "regions": [],
+   "locationText": "Malta",
+   "type": "Full Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "unreal": 0.75,
+    "graphics": 1,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.33,
+    "ownership": 0.33
+   },
+   "postedAt": "2026-10-08T23:48:40.000Z",
+   "snippet": "Malta or remote, fulltime YOURRESPONSIBILITIES: Work closely with Tech and Art departments and act as alink to ensure that there is proper communication and understanding betweenthem. Lead the RnD together with the otherTechnical Artists for all tech art subjects of the given projects, looking waysto improve Art…"
+  },
+  {
    "id": "himalayas:https://himalayas.app/companies/play-magic/jobs/experienced-ue4-ue5-programmer-mexico-remote",
    "title": "Experienced UE4/UE5 Programmer (Mexico/Remote)",
    "company": "Play Magic",
@@ -8391,42 +8428,6 @@
    "snippet": "TransPerfect Games is a leading provider of bespoke and flexible videogame services, offering a wide range of solutions including translation, functional and localization game testing, certification testing, focus group and playtesting, player support and community management, cybersecurity and penetration testing,…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/playstation-global/jobs/senior-gameplay-designer-combat-ai",
-   "title": "Senior Gameplay Designer (Combat & AI)",
-   "company": "PlayStation Global",
-   "logo": "https://cdn-images.himalayas.app/ahlecwvd9pr3s51xuceo8bmm821q",
-   "url": "https://himalayas.app/companies/playstation-global/jobs/senior-gameplay-designer-combat-ai?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "United States",
-   "type": "Full Time",
-   "salary": "$118k–177k/yr",
-   "level": 4,
-   "skills": {
-    "gameplay": 1,
-    "design": 1,
-    "art3d": 0.5,
-    "audio": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.25,
-    "structure": 0.25,
-    "curiosity": 0.5,
-    "ownership": 0.25,
-    "composure": 0.75
-   },
-   "postedAt": "2026-10-02T21:27:31.000Z",
-   "snippet": "Are you on a mission to create games that bond players together into deeply invested communities? Do you spend your time thinking about how to build combat puzzles for players that have potential to create memorable teamplay moments? Are you excited to make gameplay that strongly cares about player intention, action…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/playstation-global/jobs/senior-game-engineer-graphics",
    "title": "Senior Game Engineer - Graphics",
    "company": "PlayStation Global",
@@ -8745,38 +8746,6 @@
    },
    "postedAt": "2026-09-21T18:58:29.000Z",
    "snippet": "Senior Gameplay Engineer Astrid is a gaming studio that brings together accomplished worldbuilders and game developers to create multiplayer creative experiences. Our first project is a cooperative open-world sim, designed to foster connection, problem-solving, and shared discovery. Players embark on a profound social…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/duelit/jobs/mobile-qa-automation-engineer-3666914886",
-   "title": "Mobile QA Automation Engineer",
-   "company": "Duelit",
-   "logo": "https://cdn-images.himalayas.app/cvnzri6foli8vhfeebqt6245rttp",
-   "url": "https://himalayas.app/companies/duelit/jobs/mobile-qa-automation-engineer-3666914886?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Spain"
-   ],
-   "regions": [],
-   "locationText": "Spain",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "qa": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 1,
-    "structure": 1,
-    "curiosity": 0.5,
-    "composure": 0.5
-   },
-   "postedAt": "2026-09-21T05:06:34.000Z",
-   "snippet": "We are currently looking for an experienced QA Engineer, that will own the whole QA process from integration testing on the server by setting up continuous integration framework, to scheduled app testing with automated tests for both of our iOS and Android apps. In this role, you will get to be in the front-lines of…"
   }
  ]
 }
