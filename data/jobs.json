@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-05T22:41:35.650Z",
+ "generatedAt": "2026-11-06T12:58:05.759Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 223
+   "jobs": 222
   },
   {
    "name": "Remotive",
@@ -270,6 +270,39 @@
    },
    "postedAt": "2026-11-05T19:36:18.000Z",
    "snippet": "Nationality: Taiwanese, Malaysian, Chinese, or Singaporean Remote Language: Mandarin is the primary working language. Ability to read basic English documents is required. Salary Range: 2000 USD Headcount:3 Hiring Priority: Urgent Employment Type: Permanent Job Overview We are looking for a Spine 2D Animator to create…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/business-development-manager-bdm-us-remote-all-services",
+   "title": "Business Development Manager (BDM) | US Remote- All Services",
+   "company": "Pole To Win International",
+   "logo": "https://cdn-images.himalayas.app/bjv749hefvaj3nwcmavfy202pfg9",
+   "url": "https://himalayas.app/companies/pole-to-win-international/jobs/business-development-manager-bdm-us-remote-all-services?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United States"
+   ],
+   "regions": [],
+   "locationText": "United States",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.75,
+    "audio": 0.5,
+    "qa": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "structure": 0.33,
+    "curiosity": 0.33,
+    "ownership": 0.67
+   },
+   "postedAt": "2026-11-05T19:32:14.000Z",
+   "snippet": "We are looking for an experienced Business Development Manager to drive growth across Side's full portfolio of video game development and production services in North America. This is a broad commercial role responsible for winning new clients and growing existing partnerships across: Game Development / Codev Art…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/godot-game-developer-remote-contract",
@@ -1124,6 +1157,61 @@
    "snippet": "Programmer - Gameplay Reach Game Studios is looking for a talented gameplay programmer (Unreal Engine) to join and lead the gameplay team for the studio's upcoming online FPS RPG, GLORY . Responsibilities: As a Gameplay Programmer you will be responsible for: Working with the Design Director to shape key gameplay…"
   },
   {
+   "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-arabic-freelance-remote",
+   "title": "LQA Game Tester (Arabic) - Freelance Remote",
+   "company": "Pole To Win International",
+   "logo": "https://cdn-images.himalayas.app/bjv749hefvaj3nwcmavfy202pfg9",
+   "url": "https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-arabic-freelance-remote?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Austria",
+    "Belgium",
+    "Croatia",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Italy",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Netherlands",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Switzerland"
+   ],
+   "regions": [],
+   "locationText": "Europe (26 countries)",
+   "type": "Contractor",
+   "salary": "",
+   "level": 2,
+   "skills": {
+    "qa": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "structure": 0.25,
+    "curiosity": 0.25
+   },
+   "postedAt": "2026-11-01T13:07:21.000Z",
+   "snippet": "About the company Side (formerly PTW) is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in Japan in 1994, Side has grown to become a global force in the video games industry, with over 40 studios…"
+  },
+  {
    "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-latam-spanish-freelance-remote",
    "title": "LQA Game Tester (LatAm Spanish) - Freelance Remote",
    "company": "Pole To Win International",
@@ -1487,39 +1575,6 @@
    },
    "postedAt": "2026-11-01T12:37:02.000Z",
    "snippet": "TransPerfect Games is a leading provider of bespoke and flexible video-game services, offering a wide range of solutions including translation, functional and localization game testing, certification testing, focus group and play-testing, player support and community management, cybersecurity and penetration testing,…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/transperfect/jobs/freelance-game-lqa-tester-english-german",
-   "title": "Freelance Game LQA Tester (English → German)",
-   "company": "TransPerfect",
-   "logo": "https://cdn-images.himalayas.app/ajo5i9rif4b5o85fv5k9mcd8pr0p",
-   "url": "https://himalayas.app/companies/transperfect/jobs/freelance-game-lqa-tester-english-german?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Poland"
-   ],
-   "regions": [],
-   "locationText": "Poland",
-   "type": "Contractor",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "qa": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.2,
-    "structure": 0.8,
-    "curiosity": 0.6,
-    "ownership": 0.2,
-    "composure": 0.8
-   },
-   "postedAt": "2026-11-01T12:36:44.000Z",
-   "snippet": "TransPerfect Games is a leading provider of bespoke and flexible videogame services, offering a wide range of solutions including translation, functional and localization game testing, certification testing, focus group and playtesting, player support and community management, cybersecurity and penetration testing,…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/atari-inc/jobs/senior-mobile-producer",
@@ -8096,6 +8151,38 @@
    "snippet": "Job Name: Unity Engineer Job City: Los Angeles, CA Job Location: Fully Remote Position is Fully Remote, but applicants must be authorized to work in the United States. GigXR () is a leading provider of immersive learning solutions, specializing in transforming healthcare and educational training through cutting-edge…"
   },
   {
+   "id": "himalayas:https://himalayas.app/companies/play-magic/jobs/technical-artist-malta-remote",
+   "title": "Technical Artist (Malta/Remote)",
+   "company": "Play Magic",
+   "logo": "https://cdn-images.himalayas.app/m9o7ams9433clq3aobok9gtlam5c",
+   "url": "https://himalayas.app/companies/play-magic/jobs/technical-artist-malta-remote?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Malta"
+   ],
+   "regions": [],
+   "locationText": "Malta",
+   "type": "Full Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "unreal": 0.75,
+    "graphics": 1,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.33,
+    "ownership": 0.33
+   },
+   "postedAt": "2026-10-08T23:48:40.000Z",
+   "snippet": "Malta or remote, fulltime YOURRESPONSIBILITIES: Work closely with Tech and Art departments and act as alink to ensure that there is proper communication and understanding betweenthem. Lead the RnD together with the otherTechnical Artists for all tech art subjects of the given projects, looking waysto improve Art…"
+  },
+  {
    "id": "himalayas:https://himalayas.app/companies/play-magic/jobs/experienced-ue4-ue5-programmer-mexico-remote",
    "title": "Experienced UE4/UE5 Programmer (Mexico/Remote)",
    "company": "Play Magic",
@@ -8612,38 +8699,6 @@
    "snippet": "Are you on a mission to create games that bond players together into deeply invested communities? Would you like to work on something comedic with lighthearted and whimsical characters? And are you excited to build the systems and tools to help others create a rich, innovative game? As a Staff Gameplay Engineer –…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/playstation-global/jobs/qa-lead-social",
-   "title": "QA Lead - Social",
-   "company": "PlayStation Global",
-   "logo": "https://cdn-images.himalayas.app/ahlecwvd9pr3s51xuceo8bmm821q",
-   "url": "https://himalayas.app/companies/playstation-global/jobs/qa-lead-social?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "United States",
-   "type": "Full Time",
-   "salary": "$148k–222k/yr",
-   "level": 4,
-   "skills": {
-    "networking": 0.75,
-    "qa": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 0.25,
-    "curiosity": 0.25,
-    "composure": 0.25
-   },
-   "postedAt": "2026-10-02T06:23:14.000Z",
-   "snippet": "QA Lead - Social Are you on a mission to create games that bond players together into deeply invested communities? Would you like to work on something comedic with lighthearted and whimsical characters? Do you spend your time deconstructing social interactions within PvP games? Do you think deeply about the most…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/meta4/jobs/senior-game-ai-programmer",
    "title": "Senior Game AI Programmer",
    "company": "META4",
@@ -8766,71 +8821,6 @@
    },
    "postedAt": "2026-09-25T17:22:55.000Z",
    "snippet": "OUR MISSION Generate is a Boston-based MIT-spin off technology company with the mission to digitize one of the world’s largest and least digital industries: the 12-trillion-dollar Architecture, Engineering, and Construction (AEC) sector. We are bringing the many innovations and techniques from state-of-the-art gaming…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/gamepoint/jobs/game-qa-tester",
-   "title": "Game QA Tester",
-   "company": "GamePoint",
-   "logo": "https://cdn-images.himalayas.app/p8acr8qtnsih1lubhx8hkkhln2hi",
-   "url": "https://himalayas.app/companies/gamepoint/jobs/game-qa-tester?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Poland"
-   ],
-   "regions": [],
-   "locationText": "Poland",
-   "type": "Full Time",
-   "salary": "",
-   "level": 2,
-   "skills": {
-    "qa": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.5,
-    "autonomy": 0.5,
-    "structure": 1,
-    "ownership": 0.5,
-    "composure": 1
-   },
-   "postedAt": "2026-09-22T08:18:11.000Z",
-   "snippet": "Gaming Together, Wherever You Are!” GamePoint is one of the world's leading social game developers, based in the Netherlands. We create cross-platform games and have continued to satisfy every type of gamer for over 20 years. We’ve continued success with GamePoint Bingo, RoyalDice, CardParty, and WordTornado, to name…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/astrid-entertainment/jobs/senior-gameplay-engineer-characters",
-   "title": "Senior Gameplay Engineer - Characters",
-   "company": "Astrid Entertainment",
-   "logo": "",
-   "url": "https://himalayas.app/companies/astrid-entertainment/jobs/senior-gameplay-engineer-characters?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "United Kingdom",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 1,
-    "unreal": 0.63,
-    "networking": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.67,
-    "curiosity": 1,
-    "ownership": 0.67,
-    "composure": 0.17
-   },
-   "postedAt": "2026-09-21T22:54:31.000Z",
-   "snippet": "Astrid is a gaming studio that brings together accomplished worldbuilders and game developers to create multiplayer creative experiences. Our first project is a cooperative open-world sim, designed to foster connection, problem-solving, and shared discovery. Players embark on a profound social experience in a richly…"
   }
  ]
 }
