@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-07T20:53:59.771Z",
+ "generatedAt": "2026-11-08T11:57:03.595Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 233
+   "jobs": 234
   },
   {
    "name": "Remotive",
@@ -18,6 +18,112 @@
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/pavago/jobs/video-game-developer-982281889",
+   "title": "Video Game Developer",
+   "company": "Pavago",
+   "logo": "https://cdn-images.himalayas.app/q1g70vrjd2dhofu56e7xj9wodx8e",
+   "url": "https://himalayas.app/companies/pavago/jobs/video-game-developer-982281889?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Pakistan"
+   ],
+   "regions": [],
+   "locationText": "Pakistan",
+   "type": "Full Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "gameplay": 1,
+    "unity": 0.75
+   },
+   "engines": [
+    "Godot"
+   ],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.22,
+    "structure": 0.33,
+    "curiosity": 0.44,
+    "ownership": 0.22,
+    "composure": 0.11
+   },
+   "postedAt": "2026-11-08T04:48:21.000Z",
+   "snippet": "Position Type: Full-Time Location: Remote Working Hours: U.S. Business Hours About the Role We’re looking for a Video Game Developer to build, iterate, and maintain game projects using both Unity and Godot . You’ll work closely with designers and artists to turn creative concepts into polished gameplay systems,…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/gardens-interactive/jobs/gameplay-engineer",
+   "title": "Gameplay Engineer",
+   "company": "Gardens Interactive",
+   "logo": "https://cdn-images.himalayas.app/88p5jnb4gy0vgxv6m35lca4i0cyt",
+   "url": "https://himalayas.app/companies/gardens-interactive/jobs/gameplay-engineer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United States"
+   ],
+   "regions": [],
+   "locationText": "United States",
+   "type": "Full Time",
+   "salary": "$155k–171k/yr",
+   "level": 3,
+   "skills": {
+    "gameplay": 1,
+    "unreal": 0.88,
+    "networking": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.14,
+    "curiosity": 0.86,
+    "ownership": 0.14,
+    "composure": 0.43
+   },
+   "postedAt": "2026-11-08T00:38:37.000Z",
+   "snippet": "At Gardens Interactive , we're building games centered on connection, collective adventure, and emergent stories. We believe the spirit with which we build games is reflected in the experiences our players have. The way we collaborate, solve problems, navigate uncertainty, and care for one another ultimately shapes…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/gardens-interactive/jobs/gameplay-tools-engineer",
+   "title": "Gameplay Tools Engineer",
+   "company": "Gardens Interactive",
+   "logo": "https://cdn-images.himalayas.app/88p5jnb4gy0vgxv6m35lca4i0cyt",
+   "url": "https://himalayas.app/companies/gardens-interactive/jobs/gameplay-tools-engineer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United States"
+   ],
+   "regions": [],
+   "locationText": "United States",
+   "type": "Full Time",
+   "salary": "$138k–155k/yr",
+   "level": 3,
+   "skills": {
+    "gameplay": 1,
+    "unreal": 0.88,
+    "graphics": 0.5,
+    "audio": 0.75,
+    "production": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.13,
+    "curiosity": 0.5,
+    "ownership": 0.13,
+    "composure": 0.25
+   },
+   "postedAt": "2026-11-07T23:51:16.000Z",
+   "snippet": "At Gardens Interactive , we're building games centered on connection, collective adventure, and emergent stories. We believe the spirit with which we build games is reflected in the experiences our players have. The way we collaborate, solve problems, navigate uncertainty, and care for one another ultimately shapes…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/yallaplay/jobs/senior-game-prototype-developer",
    "title": "Senior Game Prototype Developer",
@@ -2674,36 +2780,6 @@
    },
    "postedAt": "2026-11-01T12:26:15.000Z",
    "snippet": "Senior Mobile Producer (Atari) Location: Remote, Melbourne Ideal, not required. Time Zone: Australian, New Zealand, Southeast Asian, Japanese, or Korean time zones About Us Atari, one of the world's most iconic entertainment brands, is a pioneer in interactive entertainment. With operations spanning gaming,…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/startup-talents/jobs/metaverse-software-engineer-remote-uk-singapore-dubai",
-   "title": "Metaverse Software Engineer (Remote UK, Singapore, Dubai)",
-   "company": "Startup Talents",
-   "logo": "https://cdn-images.himalayas.app/c1lyrk3td7ikvknih7leh7uhxz68",
-   "url": "https://himalayas.app/companies/startup-talents/jobs/metaverse-software-engineer-remote-uk-singapore-dubai?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Singapore",
-    "United Arab Emirates",
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "Singapore, United Arab Emirates, United Kingdom",
-   "type": "Full Time",
-   "salary": "$100k–150k/yr",
-   "level": 3,
-   "skills": {
-    "unity": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "ownership": 1
-   },
-   "postedAt": "2026-11-01T12:14:01.000Z",
-   "snippet": "This is a remote position. The company is a high-throughput public sharding blockchain platform that was designed to scale to thousands of transactions per second, tailored towards enabling creating secure data-driven decentralised apps, and designed to meet the scaling requirements of machine learning and financial…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-polish-freelance-remote",
@@ -8328,36 +8404,6 @@
    },
    "postedAt": "2026-10-18T14:27:40.000Z",
    "snippet": "Description With more than 8 billion downloads, CrazyLabs is a leading publisher of casual and hybrid-casual games. We have proven that real success comes from staying ahead with the latest technology, having fun with what we do, and building excellent teams. That’s where you come in! We’re looking for a Publishing…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/game5mobile/jobs/game-programmer",
-   "title": "Game Programmer",
-   "company": "Game5Mobile",
-   "logo": "",
-   "url": "https://himalayas.app/companies/game5mobile/jobs/game-programmer?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Indonesia"
-   ],
-   "regions": [],
-   "locationText": "Indonesia",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 1,
-    "unity": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "curiosity": 0.5
-   },
-   "postedAt": "2026-10-18T07:30:21.000Z",
-   "snippet": "If you're challenged to: Implement feature/elements of a game based on the game mechanic Utilize the tools needed for project completion (ex. Fabric, Hockeyapp) Delivered the task given within the allocated timeline Collaborate with game designer and game artist during the development phase Have 2 years of game…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/keywords-studios-plc/jobs/senior-game-capture-artist",
