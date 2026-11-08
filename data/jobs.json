@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-08T11:57:03.595Z",
+ "generatedAt": "2026-11-08T21:12:16.059Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 234
+   "jobs": 231
   },
   {
    "name": "Remotive",
@@ -18,6 +18,71 @@
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/cm-labs/jobs/developpeur-logiciel-senior-vortex-studio-senior-software-developer-vortex-st",
+   "title": "Développeur Logiciel Senior - Vortex Studio /Senior Software Developer-Vortex St",
+   "company": "CM Labs",
+   "logo": "",
+   "url": "https://himalayas.app/companies/cm-labs/jobs/developpeur-logiciel-senior-vortex-studio-senior-software-developer-vortex-st?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Canada"
+   ],
+   "regions": [],
+   "locationText": "Canada",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "unity": 0.75,
+    "qa": 0.5,
+    "production": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "structure": 0.67,
+    "curiosity": 1,
+    "composure": 0.33
+   },
+   "postedAt": "2026-11-08T21:00:33.000Z",
+   "snippet": "Notre équipe de recherche et développement recherche un développeur senior pour participer au développement de la plateforme logiciel Vortex. La plateforme de Vortex Studio contribue à l'immersion de nos simulateurs de formation pour machines lourdes dans diverses industries, incluant les industries de la construction…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/keywords-studios-plc/jobs/lead-lighting-artist",
+   "title": "Lead Lighting Artist",
+   "company": "Keywords Studios Plc",
+   "logo": "https://cdn-images.himalayas.app/l0mvkebddwgsd42q9g0cdg3j7bzw",
+   "url": "https://himalayas.app/companies/keywords-studios-plc/jobs/lead-lighting-artist?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Vietnam"
+   ],
+   "regions": [],
+   "locationText": "Vietnam",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.75,
+    "art3d": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 0.33,
+    "autonomy": 0.33,
+    "curiosity": 1,
+    "ownership": 0.33
+   },
+   "postedAt": "2026-11-08T10:11:44.000Z",
+   "snippet": "Keywords Studios is currently looking to expand its team in Southeast Asia. We're currently looking for an accomplished, enthusiastic and self-motivated Lead Lighting Artist to join our team working on an exciting, new and unannounced project. Keywords Studios is a global leader providing art services to AAA…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/pavago/jobs/video-game-developer-982281889",
    "title": "Video Game Developer",
@@ -471,7 +536,7 @@
    "regions": [],
    "locationText": "Europe (73 countries)",
    "type": "Contractor",
-   "salary": "$50–100/hr",
+   "salary": "",
    "level": 3,
    "skills": {
     "graphics": 0.88,
@@ -573,7 +638,7 @@
    "regions": [],
    "locationText": "Europe (72 countries)",
    "type": "Contractor",
-   "salary": "$50–100/hr",
+   "salary": "",
    "level": 3,
    "skills": {
     "graphics": 1,
@@ -1194,37 +1259,6 @@
    },
    "postedAt": "2026-11-06T13:43:49.000Z",
    "snippet": "That's No Moon is an independent studio of storytellers and game-makers who believe in the power of narrative-driven experiences. With a diverse team of talented developers, our shared vision is to create the future of AAA experiences with a culture of creativity, collaboration, and responsible production practices.…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/multiplayer-studio/jobs/senior-design-technology-lead",
-   "title": "Senior Design Technology Lead",
-   "company": "Multiplayer Studio",
-   "logo": "",
-   "url": "https://himalayas.app/companies/multiplayer-studio/jobs/senior-design-technology-lead?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Canada"
-   ],
-   "regions": [],
-   "locationText": "Canada",
-   "type": "Full Time",
-   "salary": "CAD 135k–165k/yr",
-   "level": 4,
-   "skills": {
-    "networking": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 0.33,
-    "curiosity": 1,
-    "ownership": 0.33
-   },
-   "postedAt": "2026-11-06T12:49:15.000Z",
-   "snippet": "About Multiplayer We are Multiplayer! We design and build products that work for people, so people can do their best work. We design product experiences that bring purpose and delight to everyday tasks. Working side by side with our clients, we help rapidly build their internal design capabilities. And we’re dedicated…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/xsolla/jobs/game-designer-mid-senior",
@@ -5378,39 +5412,6 @@
    "snippet": "About the role We’re VOID Interactive , the kick-ass team behind the best-selling FPS game Ready or Not, which has sold over 15 million copies across all platforms. We’re a fully remote, 90+ person studio made up of seriously talented individuals from all over the world who love games and creating exceptional…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/cd-projekt-red/jobs/senior-rendering-engineer",
-   "title": "Senior Rendering Engineer",
-   "company": "CD PROJEKT RED",
-   "logo": "https://cdn-images.himalayas.app/5ye6wsvhqi8ik2s2aavcitzvkj1p",
-   "url": "https://himalayas.app/companies/cd-projekt-red/jobs/senior-rendering-engineer?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Canada"
-   ],
-   "regions": [],
-   "locationText": "Canada",
-   "type": "Full Time",
-   "salary": "CAD 127k–210k/yr",
-   "level": 4,
-   "skills": {
-    "unreal": 1,
-    "graphics": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 0.33,
-    "curiosity": 0.33,
-    "ownership": 1,
-    "composure": 0.33
-   },
-   "postedAt": "2026-10-29T18:18:40.000Z",
-   "snippet": "CD PROJEKT RED is looking for a Senior Rendering Engineer to join the team working on Cyberpunk 2, the follow-up to Cyberpunk 2077 and the next major video game in the Cyberpunk franchise. In this role, you will become part of the team responsible for developing rendering solutions and optimizations to enable…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/game-developer",
    "title": "Game Developer",
    "company": "Xperteez Technology",
@@ -5440,79 +5441,6 @@
    },
    "postedAt": "2026-10-29T09:19:11.000Z",
    "snippet": "Role Title: Game Developer Role Type: Contract Location: Remote In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/wolcen-studio/jobs/senior-gameplay-animator-9157408721",
-   "title": "Senior Gameplay Animator",
-   "company": "Wolcen Studio",
-   "logo": "",
-   "url": "https://himalayas.app/companies/wolcen-studio/jobs/senior-gameplay-animator-9157408721?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Albania",
-    "Austria",
-    "Belarus",
-    "Belgium",
-    "Bosnia and Herzegovina",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Iceland",
-    "Ireland",
-    "Italy",
-    "Kosovo",
-    "Latvia",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Moldova",
-    "Montenegro",
-    "Netherlands",
-    "North Macedonia",
-    "Norway",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Serbia",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Sweden",
-    "Switzerland",
-    "Ukraine",
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "Europe (40 countries)",
-   "type": "Contractor",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 1,
-    "unreal": 0.75,
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.17,
-    "curiosity": 0.83,
-    "ownership": 0.33,
-    "composure": 0.67
-   },
-   "postedAt": "2026-10-29T09:18:59.000Z",
-   "snippet": "Wolcen is looking for a passionate Senior Gameplay Animator interested in working within a multicultural team and with Unreal Engine 5 as we continue developing our next projects (Wolcen 2 and Gods, Death, and Reapers). This is a remote position. Please be mindful that we take into consideration only candidates based…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/prism-studio/jobs/lead-ux-ui-designer-8750788806",
@@ -5692,6 +5620,71 @@
    },
    "postedAt": "2026-10-29T09:18:36.000Z",
    "snippet": "Job Title: AAA Gameplay Data Capture Specialist Job Type: Contract {Pay Per Task Model} Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/playq/jobs/senior-motion-graphics-designer",
+   "title": "Senior Motion Graphics Designer",
+   "company": "PlayQ",
+   "logo": "https://cdn-images.himalayas.app/484dxpy5w8fxh7obb14ntj6qxtep",
+   "url": "https://himalayas.app/companies/playq/jobs/senior-motion-graphics-designer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Argentina",
+    "Bahamas",
+    "Barbados",
+    "Belize",
+    "Bolivia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Cuba",
+    "Dominican Republic",
+    "Ecuador",
+    "El Salvador",
+    "Guatemala",
+    "Guyana",
+    "Haiti",
+    "Honduras",
+    "Jamaica",
+    "Mexico",
+    "Nicaragua",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Puerto Rico",
+    "Georgia",
+    "Suriname",
+    "Trinidad and Tobago",
+    "Uruguay",
+    "Venezuela"
+   ],
+   "regions": [],
+   "locationText": "Latin America (29 countries)",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.88,
+    "graphics": 0.75,
+    "design": 0.75,
+    "narrative": 0.75,
+    "audio": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 0.86,
+    "autonomy": 0.14,
+    "structure": 0.29,
+    "curiosity": 1,
+    "ownership": 0.86,
+    "composure": 0.57
+   },
+   "postedAt": "2026-10-29T09:17:22.000Z",
+   "snippet": "Our Mission: To capture the hearts and minds of millions of players across the world by creating unforgettable games powered by the best technology. About Us: PlayQ is a rapidly growing entertainment and technology company that recognizes quality is king as we deliver unforgettable mobile game experiences to a global…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/infomediji/jobs/qa-engineer-unity-team",
@@ -6028,36 +6021,6 @@
    },
    "postedAt": "2026-10-29T09:11:19.000Z",
    "snippet": "Softgames is looking for a Freelance Sound Designer (Project Based) to create the music and sound effects for a new, unannounced free-to-play casual game. The game is a bright, relaxing island world where players combine items, help customers and build a place of their own. It ships on Facebook Instant Games, the web…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/cd-projekt-red/jobs/machine-learning-researcher-narratologist-8172979990",
-   "title": "Machine Learning Researcher - Narratologist",
-   "company": "CD PROJEKT RED",
-   "logo": "https://cdn-images.himalayas.app/5ye6wsvhqi8ik2s2aavcitzvkj1p",
-   "url": "https://himalayas.app/companies/cd-projekt-red/jobs/machine-learning-researcher-narratologist-8172979990?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Canada"
-   ],
-   "regions": [],
-   "locationText": "Canada",
-   "type": "Full Time",
-   "salary": "CAD 146k–241k/yr",
-   "level": 4,
-   "skills": {
-    "narrative": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "curiosity": 0.67,
-    "ownership": 1,
-    "composure": 0.33
-   },
-   "postedAt": "2026-10-29T05:38:22.000Z",
-   "snippet": "CD PROJEKT RED is looking for a Machine Learning Researcher - Narratologist to join our R&D Team exploring potential new features for game development. In this role you will find and push the boundaries of computational narratology, the study of techniques to understand and react to (but not generate) narrative text.…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/crystal-dynamics/jobs/presentation-design-intern-spring-2027",
@@ -7277,38 +7240,6 @@
    "snippet": "Athena Studio is looking for a Freelance VFX Artist to help us breathe magic into our mobile games! If you have a passion for Casual, Hybrid-Casual, and Puzzle games, and love transforming standard effects into premium, eye-catching visuals, we want you on our team. In this role, you will take ownership of creating…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/face-to-face-games/jobs/developpeur-full-stack-senior",
-   "title": "Développeur full-stack senior",
-   "company": "Face to Face Games",
-   "logo": "https://cdn-images.himalayas.app/7dcytpi18li8o91g2uvlxyx5r267",
-   "url": "https://himalayas.app/companies/face-to-face-games/jobs/developpeur-full-stack-senior?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Canada"
-   ],
-   "regions": [],
-   "locationText": "Canada",
-   "type": "Full Time",
-   "salary": "CAD 120k–145k/yr",
-   "level": 4,
-   "skills": {
-    "production": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.4,
-    "structure": 0.4,
-    "ownership": 0.2,
-    "composure": 0.2
-   },
-   "postedAt": "2026-10-24T11:56:34.000Z",
-   "snippet": "An English posting will follow. Développeur full-stack senior Lieu : Montréal (Québec), en mode hybride, ou à distance dans le même fuseau horaire Type d’emploi : Temps plein Niveau d’expérience : Senior Rémunération : 120 000 $ à 145 000 $ CA À propos de nous Jeux Face à Face est la principale entreprise canadienne…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/devoted-studios/jobs/senior-unity-engineer-full-stack",
    "title": "Senior Unity Engineer (Full-Stack)",
    "company": "Devoted Studios",
@@ -8504,37 +8435,6 @@
    },
    "postedAt": "2026-10-17T16:14:21.000Z",
    "snippet": "We are seeking a talented and detail-oriented Sound Engineer to join our team. The ideal candidate will enhance player immersion through high-quality sound effects and ambient audio, especially for mobile and web games. You will work closely with developers and designers to ensure all audio assets not only sound great…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/keywords-studios-plc/jobs/lighting-artist",
-   "title": "Lighting Artist",
-   "company": "Keywords Studios Plc",
-   "logo": "https://cdn-images.himalayas.app/l0mvkebddwgsd42q9g0cdg3j7bzw",
-   "url": "https://himalayas.app/companies/keywords-studios-plc/jobs/lighting-artist?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Japan"
-   ],
-   "regions": [],
-   "locationText": "Japan",
-   "type": "Contractor",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "narrative": 0.5,
-    "art3d": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 0.14,
-    "curiosity": 0.43
-   },
-   "postedAt": "2026-10-17T14:09:42.000Z",
-   "snippet": "Applicants must be currently residing in Japan and possess valid authorization to work in Japan. Lighting Creation Create high-quality, visually compelling lighting for environments and cinematics. Produce lighting that aligns with the project’s artistic direction and storytelling, through mood, tone and atmosphere.…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/dikshatek-co/jobs/ai-unity-developer",
