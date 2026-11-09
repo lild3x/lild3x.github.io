@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-08T21:12:16.059Z",
+ "generatedAt": "2026-11-09T13:55:24.196Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 231
+   "jobs": 230
   },
   {
    "name": "Remotive",
@@ -2080,36 +2080,6 @@
    "snippet": "Job Title: Godot Game Engine Expert Job Type: Contract Location: Remote micro1 is looking for experienced Godot Game Engine specialists to support an AI training project. In this role, you will use Godot to complete real-world 2D and 3D game development tasks and explain your workflows step by step. Your expertise…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/piranha-games-inc/jobs/senior-lighting-artist",
-   "title": "Senior Lighting Artist",
-   "company": "Piranha Games Inc.",
-   "logo": "https://cdn-images.himalayas.app/tyi6na0l7azqlfqyefmrc1eqlxfb",
-   "url": "https://himalayas.app/companies/piranha-games-inc/jobs/senior-lighting-artist?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Canada"
-   ],
-   "regions": [],
-   "locationText": "Canada",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.5,
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "structure": 1,
-    "curiosity": 1
-   },
-   "postedAt": "2026-11-03T08:43:14.000Z",
-   "snippet": "About Piranha Games Founded in 2000, Piranha Games is an action gaming studio with unparalleled experience developing licensed products for big-name franchises, including AAA licensed titles such as; Need for Speed: Undercover and Duke Nukem Forever. Best known for the Free-to-Play game title MechWarrior Online, PGI…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/sourcing-unicorns/jobs/3d-unity-generalist-visual-artist",
    "title": "3D Unity Generalist / Visual Artist",
    "company": "Sourcing Unicorns",
@@ -2239,38 +2209,6 @@
    },
    "postedAt": "2026-11-02T23:02:24.000Z",
    "snippet": "About Us! At Sourcing Unicorns , we recruit globally across the creative and experiential industry, always on the lookout for exceptional talent to bring bold ideas to life. For this opportunity, we’re proud to collaborate with the team at Fivestone Studios to find the unicorn, the one who will truly make a…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/piranha-games-inc/jobs/senior-cinematic-in-game-animator",
-   "title": "Senior Cinematic/In-Game Animator",
-   "company": "Piranha Games Inc.",
-   "logo": "https://cdn-images.himalayas.app/tyi6na0l7azqlfqyefmrc1eqlxfb",
-   "url": "https://himalayas.app/companies/piranha-games-inc/jobs/senior-cinematic-in-game-animator?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Canada"
-   ],
-   "regions": [],
-   "locationText": "Canada",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.75,
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "curiosity": 0.33,
-    "ownership": 0.33,
-    "composure": 1
-   },
-   "postedAt": "2026-11-02T22:13:36.000Z",
-   "snippet": "About Piranha Games Founded in 2000, Piranha Games is an action gaming studio with unparalleled experience developing licensed products for big-name franchises, including AAA licensed titles such as; Need for Speed: Undercover and Duke Nukem Forever. Best known for the Free-to-Play game title MechWarrior Online, PGI…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/beamdog/jobs/senior-writer",
@@ -5441,6 +5379,79 @@
    },
    "postedAt": "2026-10-29T09:19:11.000Z",
    "snippet": "Role Title: Game Developer Role Type: Contract Location: Remote In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/wolcen-studio/jobs/senior-gameplay-animator-9157408721",
+   "title": "Senior Gameplay Animator",
+   "company": "Wolcen Studio",
+   "logo": "",
+   "url": "https://himalayas.app/companies/wolcen-studio/jobs/senior-gameplay-animator-9157408721?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Albania",
+    "Austria",
+    "Belarus",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Kosovo",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Ukraine",
+    "United Kingdom"
+   ],
+   "regions": [],
+   "locationText": "Europe (40 countries)",
+   "type": "Contractor",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 1,
+    "unreal": 0.75,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.17,
+    "curiosity": 0.83,
+    "ownership": 0.33,
+    "composure": 0.67
+   },
+   "postedAt": "2026-10-29T09:18:59.000Z",
+   "snippet": "Wolcen is looking for a passionate Senior Gameplay Animator interested in working within a multicultural team and with Unreal Engine 5 as we continue developing our next projects (Wolcen 2 and Gods, Death, and Reapers). This is a remote position. Please be mindful that we take into consideration only candidates based…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/prism-studio/jobs/lead-ux-ui-designer-8750788806",
