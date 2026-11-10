@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-10T00:43:01.777Z",
+ "generatedAt": "2026-11-10T13:29:41.609Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 229
+   "jobs": 227
   },
   {
    "name": "Remotive",
@@ -14,10 +14,41 @@
   {
    "name": "Jobicy",
    "url": "https://jobicy.com",
-   "jobs": 4
+   "jobs": 0
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/rushdown-studios/jobs/senior-engine-programmer",
+   "title": "Senior Engine Programmer",
+   "company": "Rushdown Studios",
+   "logo": "",
+   "url": "https://himalayas.app/companies/rushdown-studios/jobs/senior-engine-programmer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United States"
+   ],
+   "regions": [],
+   "locationText": "United States",
+   "type": "Full Time",
+   "salary": "$100k–150k/yr",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.33,
+    "ownership": 0.67,
+    "composure": 0.33
+   },
+   "postedAt": "2026-11-10T02:19:37.000Z",
+   "snippet": "Founded by games industry veterans, Rushdown was created with a simple philosophy in mind: We believe that when talented developers are consistently challenged and given clear ownership of their work, extraordinary things will happen. As a co-dev game studio, we now focus on solving some of the most difficult problems…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/keywords-studios-plc/jobs/community-game-tester-paid-on-call",
    "title": "Community Game Tester (Paid, On-Call)",
@@ -50,137 +81,6 @@
    },
    "postedAt": "2026-11-09T23:05:25.000Z",
    "snippet": "Department : GBTN Location : Remote (Work from Home) About GBTN GBTN is a community of gamers who help shape the future of video games. We partner with developers to test unreleased and in-development titles from the comfort of our members' homes. Our community is essential for testing multiplayer games, verifying…"
-  },
-  {
-   "id": "jobicy:160283",
-   "title": "3D Artist (weapon skins)",
-   "company": "HyperHug",
-   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/04d564d3c979-221.webp",
-   "url": "https://jobicy.com/jobs/160283-3d-artist-weapon-skins",
-   "source": "Jobicy",
-   "sourceUrl": "https://jobicy.com",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Cyprus"
-   ],
-   "regions": [],
-   "locationText": "Cyprus",
-   "type": "Full-Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.5,
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "curiosity": 0.67,
-    "ownership": 0.67,
-    "composure": 0.33
-   },
-   "postedAt": "2026-11-09T15:42:50.000Z",
-   "snippet": "HyperHug is an international game development studio specializing in the shooter genre. Our main office is based in Cyprus, but our talented team works remotely from around the world. We’re developing Oxide: Survival Island , an immersive multiplayer survival shooter for mobile platforms, and we’re always looking for…"
-  },
-  {
-   "id": "jobicy:160280",
-   "title": "Senior Unity Developer",
-   "company": "HyperHug",
-   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/04d564d3c979-221.webp",
-   "url": "https://jobicy.com/jobs/160280-senior-unity-developer",
-   "source": "Jobicy",
-   "sourceUrl": "https://jobicy.com",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Cyprus"
-   ],
-   "regions": [],
-   "locationText": "Cyprus",
-   "type": "Full-Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.75,
-    "unity": 1,
-    "graphics": 0.75,
-    "networking": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "curiosity": 0.5,
-    "ownership": 0.25,
-    "composure": 0.25
-   },
-   "postedAt": "2026-11-09T15:42:47.000Z",
-   "snippet": "HyperHug is an international game development studio specializing in the shooter genre. Our main office is based in Cyprus, but our talented team works remotely from around the world. We’re developing Oxide: Survival Island , an immersive multiplayer survival shooter for mobile platforms, and we’re always looking for…"
-  },
-  {
-   "id": "jobicy:160275",
-   "title": "Senior 3D Animator",
-   "company": "HyperHug",
-   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/04d564d3c979-221.webp",
-   "url": "https://jobicy.com/jobs/160275-senior-3d-animator",
-   "source": "Jobicy",
-   "sourceUrl": "https://jobicy.com",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Cyprus"
-   ],
-   "regions": [],
-   "locationText": "Cyprus",
-   "type": "Full-Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.75,
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.5,
-    "curiosity": 0.5,
-    "ownership": 1
-   },
-   "postedAt": "2026-11-09T15:42:41.000Z",
-   "snippet": "HyperHug is an international game development studio specializing in the shooter genre. Our main office is based in Cyprus, but our talented team works remotely from around the world. We’re developing Oxide: Survival Island , an immersive multiplayer survival shooter for mobile platforms, and we’re always looking for…"
-  },
-  {
-   "id": "jobicy:160267",
-   "title": "Senior Unity Developer (Anti Cheat)",
-   "company": "HyperHug",
-   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/04d564d3c979-221.webp",
-   "url": "https://jobicy.com/jobs/160267-senior-unity-developer-anti-cheat",
-   "source": "Jobicy",
-   "sourceUrl": "https://jobicy.com",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Cyprus"
-   ],
-   "regions": [],
-   "locationText": "Cyprus",
-   "type": "Full-Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.75,
-    "unity": 1,
-    "networking": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.5,
-    "curiosity": 0.5,
-    "ownership": 1,
-    "composure": 0.5
-   },
-   "postedAt": "2026-11-09T15:42:07.000Z",
-   "snippet": "HyperHug is an international game development studio specializing in the shooter genre. Our main office is based in Cyprus, but our talented team works remotely from around the world. We’re developing Oxide: Survival Island , an immersive multiplayer survival shooter for mobile platforms, and we’re always looking for…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/mihayo/jobs/senior-combat-designer-ca",
@@ -2524,42 +2424,6 @@
    },
    "postedAt": "2026-11-01T13:13:34.000Z",
    "snippet": "Programmer - Gameplay Reach Game Studios is looking for a talented gameplay programmer (Unreal Engine) to join and lead the gameplay team for the studio's upcoming online FPS RPG, GLORY . Responsibilities: As a Gameplay Programmer you will be responsible for: Working with the Design Director to shape key gameplay…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/modsquad/jobs/remote-technical-customer-support-qa-and-game-dev-6-26",
-   "title": "Remote Technical Customer Support - QA and Game Dev - 6/26",
-   "company": "ModSquad",
-   "logo": "https://cdn-images.himalayas.app/d5dppkmtdwgsp6uvk379azzxmjpm",
-   "url": "https://himalayas.app/companies/modsquad/jobs/remote-technical-customer-support-qa-and-game-dev-6-26?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Brazil",
-    "Colombia",
-    "Costa Rica",
-    "Dominican Republic",
-    "Jamaica",
-    "Mexico",
-    "Nigeria",
-    "Philippines"
-   ],
-   "regions": [],
-   "locationText": "Latin America (8 countries)",
-   "type": "Part Time",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "gameplay": 1,
-    "qa": 0.88
-   },
-   "engines": [],
-   "traits": {
-    "structure": 1
-   },
-   "postedAt": "2026-11-01T12:56:47.000Z",
-   "snippet": "We Could Use Someone Like You in Our Crew. ModSquad is looking for tech support agents to provide top notch service to our customers! We are looking for a top notch T1 and Advanced Technical Support agent with a lot tech savvy to provide assistance on a developer' platform. This is a 24/7 project seeking at least 20…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-japanese-freelance-remote",
@@ -5153,39 +5017,6 @@
    "snippet": "We're VOID Interactive , the kickass team behind the best-selling FPS game, Ready or Not. We're made up of some seriously talented individuals who love games and creating awesome content together. We're currently looking for a dedicated and enthusiastic DevOps Engineer to join us remotely and help take us to the next…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/insomniac-games/jobs/narrative-coordinator",
-   "title": "Narrative Coordinator",
-   "company": "Insomniac Games",
-   "logo": "https://cdn-images.himalayas.app/0eozxphgf3b16uprj7jvt69i2w3z",
-   "url": "https://himalayas.app/companies/insomniac-games/jobs/narrative-coordinator?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "United States",
-   "type": "Contractor",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "narrative": 1,
-    "qa": 0.5,
-    "production": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 0.5,
-    "curiosity": 0.25,
-    "composure": 0.25
-   },
-   "postedAt": "2026-10-31T02:27:56.000Z",
-   "snippet": "This position is for temporary engagement through our staffing partner, Yoh Enterprise Solutions. This is a 6-month contract. Insomniac Games is looking for a Narrative Coordinator. In this role the Narrative Coordinator will be responsible for assisting in the creation of the 'player experience' for games by working…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/insomniac-games/jobs/senior-gameplay-programmer-contract",
    "title": "Senior Gameplay Programmer (CONTRACT)",
    "company": "Insomniac Games",
@@ -5438,39 +5269,6 @@
    },
    "postedAt": "2026-10-29T21:37:28.000Z",
    "snippet": "About the role We’re VOID Interactive , the kick-ass team behind the best-selling FPS game Ready or Not, which has sold over 15 million copies across all platforms. We’re a fully remote, 90+ person studio made up of seriously talented individuals from all over the world who love games and creating exceptional…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/cd-projekt-red/jobs/senior-rendering-engineer",
-   "title": "Senior Rendering Engineer",
-   "company": "CD PROJEKT RED",
-   "logo": "https://cdn-images.himalayas.app/5ye6wsvhqi8ik2s2aavcitzvkj1p",
-   "url": "https://himalayas.app/companies/cd-projekt-red/jobs/senior-rendering-engineer?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Canada"
-   ],
-   "regions": [],
-   "locationText": "Canada",
-   "type": "Full Time",
-   "salary": "CAD 127k–210k/yr",
-   "level": 4,
-   "skills": {
-    "unreal": 1,
-    "graphics": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 0.33,
-    "curiosity": 0.33,
-    "ownership": 1,
-    "composure": 0.33
-   },
-   "postedAt": "2026-10-29T18:18:40.000Z",
-   "snippet": "CD PROJEKT RED is looking for a Senior Rendering Engineer to join the team working on Cyberpunk 2, the follow-up to Cyberpunk 2077 and the next major video game in the Cyberpunk franchise. In this role, you will become part of the team responsible for developing rendering solutions and optimizations to enable…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/game-developer",
