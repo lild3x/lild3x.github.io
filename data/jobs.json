@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-09T13:55:24.196Z",
+ "generatedAt": "2026-11-10T00:43:01.777Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 230
+   "jobs": 229
   },
   {
    "name": "Remotive",
@@ -14,10 +14,234 @@
   {
    "name": "Jobicy",
    "url": "https://jobicy.com",
-   "jobs": 0
+   "jobs": 4
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/keywords-studios-plc/jobs/community-game-tester-paid-on-call",
+   "title": "Community Game Tester (Paid, On-Call)",
+   "company": "Keywords Studios Plc",
+   "logo": "https://cdn-images.himalayas.app/l0mvkebddwgsd42q9g0cdg3j7bzw",
+   "url": "https://himalayas.app/companies/keywords-studios-plc/jobs/community-game-tester-paid-on-call?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Japan",
+    "South Korea"
+   ],
+   "regions": [],
+   "locationText": "Japan, South Korea",
+   "type": "Temporary",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "networking": 0.5,
+    "uiux": 0.5,
+    "qa": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 0.33,
+    "structure": 0.33,
+    "composure": 1
+   },
+   "postedAt": "2026-11-09T23:05:25.000Z",
+   "snippet": "Department : GBTN Location : Remote (Work from Home) About GBTN GBTN is a community of gamers who help shape the future of video games. We partner with developers to test unreleased and in-development titles from the comfort of our members' homes. Our community is essential for testing multiplayer games, verifying…"
+  },
+  {
+   "id": "jobicy:160283",
+   "title": "3D Artist (weapon skins)",
+   "company": "HyperHug",
+   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/04d564d3c979-221.webp",
+   "url": "https://jobicy.com/jobs/160283-3d-artist-weapon-skins",
+   "source": "Jobicy",
+   "sourceUrl": "https://jobicy.com",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Cyprus"
+   ],
+   "regions": [],
+   "locationText": "Cyprus",
+   "type": "Full-Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.5,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.67,
+    "ownership": 0.67,
+    "composure": 0.33
+   },
+   "postedAt": "2026-11-09T15:42:50.000Z",
+   "snippet": "HyperHug is an international game development studio specializing in the shooter genre. Our main office is based in Cyprus, but our talented team works remotely from around the world. We’re developing Oxide: Survival Island , an immersive multiplayer survival shooter for mobile platforms, and we’re always looking for…"
+  },
+  {
+   "id": "jobicy:160280",
+   "title": "Senior Unity Developer",
+   "company": "HyperHug",
+   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/04d564d3c979-221.webp",
+   "url": "https://jobicy.com/jobs/160280-senior-unity-developer",
+   "source": "Jobicy",
+   "sourceUrl": "https://jobicy.com",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Cyprus"
+   ],
+   "regions": [],
+   "locationText": "Cyprus",
+   "type": "Full-Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.75,
+    "unity": 1,
+    "graphics": 0.75,
+    "networking": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.5,
+    "ownership": 0.25,
+    "composure": 0.25
+   },
+   "postedAt": "2026-11-09T15:42:47.000Z",
+   "snippet": "HyperHug is an international game development studio specializing in the shooter genre. Our main office is based in Cyprus, but our talented team works remotely from around the world. We’re developing Oxide: Survival Island , an immersive multiplayer survival shooter for mobile platforms, and we’re always looking for…"
+  },
+  {
+   "id": "jobicy:160275",
+   "title": "Senior 3D Animator",
+   "company": "HyperHug",
+   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/04d564d3c979-221.webp",
+   "url": "https://jobicy.com/jobs/160275-senior-3d-animator",
+   "source": "Jobicy",
+   "sourceUrl": "https://jobicy.com",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Cyprus"
+   ],
+   "regions": [],
+   "locationText": "Cyprus",
+   "type": "Full-Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.75,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.5,
+    "curiosity": 0.5,
+    "ownership": 1
+   },
+   "postedAt": "2026-11-09T15:42:41.000Z",
+   "snippet": "HyperHug is an international game development studio specializing in the shooter genre. Our main office is based in Cyprus, but our talented team works remotely from around the world. We’re developing Oxide: Survival Island , an immersive multiplayer survival shooter for mobile platforms, and we’re always looking for…"
+  },
+  {
+   "id": "jobicy:160267",
+   "title": "Senior Unity Developer (Anti Cheat)",
+   "company": "HyperHug",
+   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/04d564d3c979-221.webp",
+   "url": "https://jobicy.com/jobs/160267-senior-unity-developer-anti-cheat",
+   "source": "Jobicy",
+   "sourceUrl": "https://jobicy.com",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Cyprus"
+   ],
+   "regions": [],
+   "locationText": "Cyprus",
+   "type": "Full-Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.75,
+    "unity": 1,
+    "networking": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 0.5,
+    "curiosity": 0.5,
+    "ownership": 1,
+    "composure": 0.5
+   },
+   "postedAt": "2026-11-09T15:42:07.000Z",
+   "snippet": "HyperHug is an international game development studio specializing in the shooter genre. Our main office is based in Cyprus, but our talented team works remotely from around the world. We’re developing Oxide: Survival Island , an immersive multiplayer survival shooter for mobile platforms, and we’re always looking for…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/mihayo/jobs/senior-combat-designer-ca",
+   "title": "Senior Combat Designer [CA]",
+   "company": "HoYoverse",
+   "logo": "",
+   "url": "https://himalayas.app/companies/mihayo/jobs/senior-combat-designer-ca?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Argentina",
+    "Bahamas",
+    "Barbados",
+    "Belize",
+    "Bolivia",
+    "Brazil",
+    "Canada",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Cuba",
+    "Dominican Republic",
+    "Ecuador",
+    "El Salvador",
+    "Guatemala",
+    "Guyana",
+    "Haiti",
+    "Honduras",
+    "Jamaica",
+    "Mexico",
+    "Nicaragua",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Puerto Rico",
+    "Suriname",
+    "Trinidad and Tobago",
+    "United States",
+    "Uruguay",
+    "Venezuela"
+   ],
+   "regions": [],
+   "locationText": "Latin America (30 countries)",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "design": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 0.5,
+    "autonomy": 0.5,
+    "curiosity": 1,
+    "composure": 0.5
+   },
+   "postedAt": "2026-11-09T14:12:24.000Z",
+   "snippet": "As a Senior Combat Designer, you’ll focus on creating mechanics, scenarios and characters that contribute to deep yet accessible combat experiences for the player. You’ll be collaborating with Level Designers, Engineers, Animators and more to prototype, implement and polish all combat-related systems and content for…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/cm-labs/jobs/developpeur-logiciel-senior-vortex-studio-senior-software-developer-vortex-st",
    "title": "Développeur Logiciel Senior - Vortex Studio /Senior Software Developer-Vortex St",
@@ -316,107 +540,6 @@
    },
    "postedAt": "2026-11-07T15:19:04.000Z",
    "snippet": "Sound Designer Role Type: Contractor Location: Remote We are engaging Sound Designers to support an AI training and audio annotation project focused on robotic video content. You'll use your sound editing and audio restoration expertise to review, annotate, and assess audio quality. No prior AI experience is required.…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/amber-studio/jobs/ux-designer-porting-aa-ue5-game-to-cloud-streaming-remote-americas-or-europe",
-   "title": "UX Designer - Porting AA UE5 Game to Cloud Streaming (Remote, Americas or Europe",
-   "company": "Amber Studio",
-   "logo": "https://cdn-images.himalayas.app/7tskotiajwfjcjupjd971uq5xz37",
-   "url": "https://himalayas.app/companies/amber-studio/jobs/ux-designer-porting-aa-ue5-game-to-cloud-streaming-remote-americas-or-europe?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Albania",
-    "Argentina",
-    "Austria",
-    "Bahamas",
-    "Barbados",
-    "Belarus",
-    "Belgium",
-    "Belize",
-    "Bolivia",
-    "Bosnia and Herzegovina",
-    "Brazil",
-    "Bulgaria",
-    "Canada",
-    "Chile",
-    "Colombia",
-    "Costa Rica",
-    "Croatia",
-    "Cuba",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Dominican Republic",
-    "Ecuador",
-    "El Salvador",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Guatemala",
-    "Guyana",
-    "Haiti",
-    "Honduras",
-    "Hungary",
-    "Iceland",
-    "Ireland",
-    "Italy",
-    "Jamaica",
-    "Kosovo",
-    "Latvia",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Mexico",
-    "Moldova",
-    "Montenegro",
-    "Netherlands",
-    "Nicaragua",
-    "North Macedonia",
-    "Norway",
-    "Panama",
-    "Paraguay",
-    "Peru",
-    "Poland",
-    "Portugal",
-    "Puerto Rico",
-    "Romania",
-    "Serbia",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Suriname",
-    "Sweden",
-    "Switzerland",
-    "Trinidad and Tobago",
-    "Ukraine",
-    "United Kingdom",
-    "United States",
-    "Uruguay",
-    "Venezuela"
-   ],
-   "regions": [],
-   "locationText": "Europe (70 countries)",
-   "type": "Contractor",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "unreal": 1,
-    "design": 0.75,
-    "uiux": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.5,
-    "autonomy": 0.5,
-    "curiosity": 1
-   },
-   "postedAt": "2026-11-07T14:42:38.000Z",
-   "snippet": "About us: At Amber, we're always on the hunt for the most talented individuals in the industry to join our team. We're dedicated to delivering top-notch service to our customers and know that our employees are key to making that happen. We offer attractive compensation packages and plenty of chances to grow with us,…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/2d-game-developer-remote",
@@ -4929,39 +5052,6 @@
    "snippet": "About us Hi, we are Ten Square Games , and we live games! No, not a typo - but a level up from loving! We are on a mission of giving players excellent outdoor experiences on their mobiles. With global hits, such as Fishing Clash, we know how to make the best of technology, fun, and fair play. With 77 million…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/sperasoft/jobs/3d-props-artist",
-   "title": "3D Props Artist",
-   "company": "Sperasoft",
-   "logo": "https://cdn-images.himalayas.app/59jx25v98rusan61374242kfyhka",
-   "url": "https://himalayas.app/companies/sperasoft/jobs/3d-props-artist?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Romania"
-   ],
-   "regions": [],
-   "locationText": "Romania",
-   "type": "Full Time",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "unreal": 0.5,
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.33,
-    "curiosity": 0.33,
-    "ownership": 0.33,
-    "composure": 1
-   },
-   "postedAt": "2026-11-01T06:21:49.000Z",
-   "snippet": "AMC Studio is a world-leading 3D art and game development studio based in Bucharest, Romania, and part of the Keywords Studios international group. Founded in 1996 and with nearly 30 years of activity, AMC has provided 3D art services for major Triple-A titles such as The Witcher 3: Wild Hunt, Call of Duty, Dead…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/cinnamon/jobs/lead-roblox-developer",
    "title": "Lead Roblox Developer",
    "company": "Cinnamon",
@@ -5348,6 +5438,39 @@
    },
    "postedAt": "2026-10-29T21:37:28.000Z",
    "snippet": "About the role We’re VOID Interactive , the kick-ass team behind the best-selling FPS game Ready or Not, which has sold over 15 million copies across all platforms. We’re a fully remote, 90+ person studio made up of seriously talented individuals from all over the world who love games and creating exceptional…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/cd-projekt-red/jobs/senior-rendering-engineer",
+   "title": "Senior Rendering Engineer",
+   "company": "CD PROJEKT RED",
+   "logo": "https://cdn-images.himalayas.app/5ye6wsvhqi8ik2s2aavcitzvkj1p",
+   "url": "https://himalayas.app/companies/cd-projekt-red/jobs/senior-rendering-engineer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Canada"
+   ],
+   "regions": [],
+   "locationText": "Canada",
+   "type": "Full Time",
+   "salary": "CAD 127k–210k/yr",
+   "level": 4,
+   "skills": {
+    "unreal": 1,
+    "graphics": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "structure": 0.33,
+    "curiosity": 0.33,
+    "ownership": 1,
+    "composure": 0.33
+   },
+   "postedAt": "2026-10-29T18:18:40.000Z",
+   "snippet": "CD PROJEKT RED is looking for a Senior Rendering Engineer to join the team working on Cyberpunk 2, the follow-up to Cyberpunk 2077 and the next major video game in the Cyberpunk franchise. In this role, you will become part of the team responsible for developing rendering solutions and optimizations to enable…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/game-developer",
@@ -5880,66 +6003,6 @@
    },
    "postedAt": "2026-10-29T09:14:30.000Z",
    "snippet": "At SOFTGAMES , we’re looking for a Senior Game Producer to lead one of our most exciting casual games on Facebook Instant. You’ll be at the heart of a small, agile team, defining the product vision, shaping the creative direction, and driving the roadmap for a game with significant growth potential. We’re looking for…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/softgames/jobs/senior-qa-manager-fully-remote-7682413969",
-   "title": "Senior QA Manager - Fully Remote",
-   "company": "SOFTGAMES",
-   "logo": "https://cdn-images.himalayas.app/vjvuefqw3o3s5uoar17mzlnnvz3q",
-   "url": "https://himalayas.app/companies/softgames/jobs/senior-qa-manager-fully-remote-7682413969?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Austria",
-    "Belgium",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Ireland",
-    "Italy",
-    "Latvia",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Netherlands",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Sweden"
-   ],
-   "regions": [],
-   "locationText": "Europe (27 countries)",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "unity": 0.5,
-    "qa": 1,
-    "production": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.33,
-    "structure": 1,
-    "ownership": 0.67,
-    "composure": 0.33
-   },
-   "postedAt": "2026-10-29T09:12:26.000Z",
-   "snippet": "We’re looking for a hands-on Senior QA Manager to join our talented and passionate team. You’ll play a key role in ensuring every release meets the highest quality standards, from early concept to global launch. As the quality owner for one of our largest mobile puzzle games, you’ll drive release quality, establish…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/endless-access/jobs/game-engineer-remote-contract-to-hire-latin-america-1184471052",
@@ -9424,36 +9487,6 @@
    },
    "postedAt": "2026-09-27T15:27:23.000Z",
    "snippet": "Would you like to work on a new IP and new genre that combines amazing action feel with lighthearted and whimsical characters? Do you revel in creating delightful and seamless user experiences for both players and developer workflows alike? As a UI Engineering Lead, you will help bring the UX vision of the Design team…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/generate-design/jobs/senior-software-engineer-for-disruptive-architecture-industry-startup-c-unrea",
-   "title": "Senior Software Engineer for Disruptive Architecture Industry Startup (C++/Unrea",
-   "company": "Generate",
-   "logo": "",
-   "url": "https://himalayas.app/companies/generate-design/jobs/senior-software-engineer-for-disruptive-architecture-industry-startup-c-unrea?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "United States",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "unreal": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.4,
-    "curiosity": 0.8
-   },
-   "postedAt": "2026-09-25T17:22:55.000Z",
-   "snippet": "OUR MISSION Generate is a Boston-based MIT-spin off technology company with the mission to digitize one of the world’s largest and least digital industries: the 12-trillion-dollar Architecture, Engineering, and Construction (AEC) sector. We are bringing the many innovations and techniques from state-of-the-art gaming…"
   }
  ]
 }
