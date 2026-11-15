@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-15T12:45:27.891Z",
+ "generatedAt": "2026-11-15T21:51:02.027Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 213
+   "jobs": 210
   },
   {
    "name": "Remotive",
@@ -18,6 +18,72 @@
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/magic-media/jobs/technical-animator-rigger-maya-unreal",
+   "title": "Technical Animator / Rigger (Maya, Unreal)",
+   "company": "Magic Media",
+   "logo": "https://cdn-images.himalayas.app/hwjlbimqrcnzzk35titx4u8llknz",
+   "url": "https://himalayas.app/companies/magic-media/jobs/technical-animator-rigger-maya-unreal?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Argentina"
+   ],
+   "regions": [],
+   "locationText": "Argentina",
+   "type": "Contractor",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "unreal": 1,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 1,
+    "ownership": 0.25,
+    "composure": 0.25
+   },
+   "postedAt": "2026-11-15T20:25:56.000Z",
+   "snippet": "Location: Contract, Remote (CET time zone / core working hours) Magic Media is a pioneering media, entertainment, and tech group powered by creativity and innovation. We have a physical presence in 15 countries and expertise in the areas of art, animation, cybersecurity, game development, software development, VFX,…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/level-designer",
+   "title": "Level Designer",
+   "company": "Pole To Win International",
+   "logo": "https://cdn-images.himalayas.app/bjv749hefvaj3nwcmavfy202pfg9",
+   "url": "https://himalayas.app/companies/pole-to-win-international/jobs/level-designer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [],
+   "locationText": "United Kingdom",
+   "type": "Contractor",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "gameplay": 1,
+    "unreal": 0.75,
+    "design": 0.75,
+    "level": 1,
+    "qa": 0.5
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.5,
+    "ownership": 0.75
+   },
+   "postedAt": "2026-11-15T14:27:14.000Z",
+   "snippet": "Strong speaking skills/proactive communication in English is necessary - only CVs/resumes in English will be considered European time-zone coverage/embedded in Sweden time zone is essential At Side, we partner with some of the world's leading developers and publishers to solve complex production challenges and help…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/commit/jobs/qa-engineer-mobile-games",
    "title": "QA Engineer (Mobile Games)",
@@ -1828,79 +1894,6 @@
    "snippet": "About the Role Atrium is a YouTube channel focused on bringing history to life through immersive visual storytelling, from exploring Hitler’s final hours to recreating the conditions of Auschwitz. We’re looking for a full-time 3D Layout Artist to help shape the visual direction of our content through cinematic scene…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/focus-entertainment/jobs/blackmill-games-multiplayer-game-designer-f-h-nb",
-   "title": "BLACKMILL GAMES - Multiplayer Game Designer (F/H/NB)",
-   "company": "Focus Entertainment",
-   "logo": "",
-   "url": "https://himalayas.app/companies/focus-entertainment/jobs/blackmill-games-multiplayer-game-designer-f-h-nb?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Albania",
-    "Austria",
-    "Belarus",
-    "Belgium",
-    "Bosnia and Herzegovina",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Iceland",
-    "Ireland",
-    "Italy",
-    "Kosovo",
-    "Latvia",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Moldova",
-    "Montenegro",
-    "Netherlands",
-    "North Macedonia",
-    "Norway",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Serbia",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Sweden",
-    "Switzerland",
-    "Ukraine",
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "Europe (40 countries)",
-   "type": "Full Time",
-   "salary": "EUR 3k–4k/mo",
-   "level": 3,
-   "skills": {
-    "gameplay": 0.63,
-    "networking": 1,
-    "design": 1,
-    "production": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.33,
-    "structure": 0.33,
-    "curiosity": 1,
-    "ownership": 0.33
-   },
-   "postedAt": "2026-11-04T18:57:14.000Z",
-   "snippet": "BlackMill Games is looking for a Multiplayer Game Designer to work on our series of WW1-themed multiplayer first-person shooters. The ideal candidate has a strong experience in designing online game experience. This is a full-time, 5 days a week, fully remote position. Responsibilities You are in charge of reviewing…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/micro1/jobs/game-developer",
    "title": "Game Developer",
    "company": "micro1",
@@ -1988,38 +1981,6 @@
    },
    "postedAt": "2026-11-04T04:51:22.000Z",
    "snippet": "Looking to take your career to the next level? Then this role is for you! Join Outsourcey and be part of our mission to revolutionize global talent expansion! We connect businesses with dedicated full-time teams in the Philippines, offering cost-efficient solutions without compromising quality. Join us and help…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/reach-game-studios-pty-ltd/jobs/executive-producer-glory-franchise",
-   "title": "Executive Producer; Glory Franchise",
-   "company": "Reach Game Studios Pty. Ltd.",
-   "logo": "",
-   "url": "https://himalayas.app/companies/reach-game-studios-pty-ltd/jobs/executive-producer-glory-franchise?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Australia"
-   ],
-   "regions": [],
-   "locationText": "Australia",
-   "type": "Contractor",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "production": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 0.2,
-    "curiosity": 0.2,
-    "ownership": 0.6,
-    "composure": 0.2
-   },
-   "postedAt": "2026-11-03T20:50:41.000Z",
-   "snippet": "Executive Producer; Glory Franchise Reach Game Studios is looking for a lead/executive producer to work on the studio's upcoming FPS RPG, GLORY and shape the franchise going forward. Responsibilities: As executive producer you will be responsible for: Along with the guidance of senior leadership and the Board,…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/sourcing-unicorns/jobs/lead-unity-developer",
@@ -2896,6 +2857,110 @@
    "snippet": "We Could Use Someone Like You in Our Crew. We are recruiting Gaming Moderation Specialists to support a global gaming project. In this role, you'll help maintain a fair and positive gaming environment by monitoring in-game activity, identifying potential concerns, and documenting observations for further review.…"
   },
   {
+   "id": "himalayas:https://himalayas.app/companies/axiom-recruit/jobs/ux-ui-games-designer-metaverse",
+   "title": "UX/UI Games Designer - Metaverse",
+   "company": "Axiom Recruit",
+   "logo": "https://cdn-images.himalayas.app/llzgbyrj6lwmw8emy351u62y5q0e",
+   "url": "https://himalayas.app/companies/axiom-recruit/jobs/ux-ui-games-designer-metaverse?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Canada",
+    "United Kingdom",
+    "United States"
+   ],
+   "regions": [],
+   "locationText": "Canada, United Kingdom, United States",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "design": 1,
+    "uiux": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "structure": 0.33,
+    "curiosity": 0.67,
+    "ownership": 0.33
+   },
+   "postedAt": "2026-11-01T12:07:40.000Z",
+   "snippet": "Seeking an experienced Games focused UX / UI Designer for a cutting-edge, AAA-rated Metaverse project. Join an award-winning team to help drive best in class User Experience and User Interface design. Fully Remote role Canada, USA, UK (Excellent English skills essential) The Role You will ensure that all elements of…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/pazu/jobs/concept-artist-remote-brazil-europe",
+   "title": "Concept Artist- Remote- Brazil / Europe",
+   "company": "Pazu",
+   "logo": "https://cdn-images.himalayas.app/lrte1iy9e4mqceuzspc0yd05mau2",
+   "url": "https://himalayas.app/companies/pazu/jobs/concept-artist-remote-brazil-europe?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Albania",
+    "Austria",
+    "Belarus",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Brazil",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Kosovo",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Ukraine",
+    "United Kingdom"
+   ],
+   "regions": [],
+   "locationText": "Europe (41 countries)",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "graphics": 0.75,
+    "art3d": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.5
+   },
+   "postedAt": "2026-11-01T12:07:14.000Z",
+   "snippet": "Description We are looking for an experienced and talented concept artist to join our amazing team! We are seeking for experienced concept artists, with a strong lean towards environment design. Responsibilities Working in Pazu ’s art department as a concept artist you will: Engage in end-to-end concept art creation,…"
+  },
+  {
    "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-ukrainian-freelance-remote",
    "title": "LQA Game Tester (Ukrainian) - Freelance Remote",
    "company": "Pole To Win International",
@@ -2964,6 +3029,36 @@
    },
    "postedAt": "2026-11-01T12:05:36.000Z",
    "snippet": "About the company Side (formerly PTW) is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in 2009 and drawing on 30+ years' experience from our parent company in Japan, Side has since grown to become…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/riseup-labs/jobs/sr-ui-ux-designer",
+   "title": "Sr. UI/UX Designer",
+   "company": "Riseup Labs",
+   "logo": "https://cdn-images.himalayas.app/sgsv83so1qttvaiaonsrfxjd03ak",
+   "url": "https://himalayas.app/companies/riseup-labs/jobs/sr-ui-ux-designer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Bangladesh"
+   ],
+   "regions": [],
+   "locationText": "Bangladesh",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "design": 1,
+    "uiux": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.67
+   },
+   "postedAt": "2026-11-01T12:03:54.000Z",
+   "snippet": "Job Context: Riseup Labs is looking for a UI/UX Designer to turn our software into easy-to-use products for our clients. Job Responsibilities: Collaborate with designers, artists, content producers, product and project managers, engineers, and business stakeholders to design best-in-class gaming experiences. Design…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/truck-world-studio/jobs/sound-designer",
@@ -3453,77 +3548,6 @@
    },
    "postedAt": "2026-11-01T11:38:04.000Z",
    "snippet": "ABOUT THE PROJECT Sensus AI - FZCO is seeking a senior stylized 3D character generalist or a specialist studio to create production-ready assets for Lumi, the feline companion in Tabimi. This is a remote, project-based contract. The scope covers one character with one base outfit and its props: an editable master,…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/brightrock-games/jobs/art-lead",
-   "title": "Art Lead",
-   "company": "Brightrock Games",
-   "logo": "",
-   "url": "https://himalayas.app/companies/brightrock-games/jobs/art-lead?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Albania",
-    "Austria",
-    "Belarus",
-    "Belgium",
-    "Bosnia and Herzegovina",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Iceland",
-    "Ireland",
-    "Italy",
-    "Kosovo",
-    "Latvia",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Moldova",
-    "Montenegro",
-    "Netherlands",
-    "North Macedonia",
-    "Norway",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Serbia",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Sweden",
-    "Switzerland",
-    "Ukraine",
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "Europe (40 countries)",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "graphics": 0.75,
-    "art3d": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.5,
-    "curiosity": 0.5,
-    "ownership": 1
-   },
-   "postedAt": "2026-11-01T11:32:55.000Z",
-   "snippet": "We are a plucky, independent, fully remote video game studio primarily based in the UK, and makers of the widely praised and highly rated Galacticare and War for the Overworld. The core team has joined together from all over the world because of a shared passion for building brighter universes. Our goal is to continue…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/beffio/jobs/senior-technical-artist-unity3d-shaders-tools-europe",
@@ -4924,38 +4948,6 @@
    "snippet": "Liquid Development was founded in 2000 and is the largest outsourcing art studio in North America. We offer a fun and cooperative work atmosphere, where collaboration is encouraged among a diversely talented team to remain on the cutting edge of content creation. Everyday Liquid Development is producing work at the…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/liquid-development/jobs/asset-coordinator",
-   "title": "Asset Coordinator",
-   "company": "Liquid Development",
-   "logo": "https://cdn-images.himalayas.app/eklco18i8o2fy66yr2buujbzcxgf",
-   "url": "https://himalayas.app/companies/liquid-development/jobs/asset-coordinator?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Mexico"
-   ],
-   "regions": [],
-   "locationText": "Mexico",
-   "type": "Full Time",
-   "salary": "",
-   "level": 2,
-   "skills": {
-    "art3d": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.33,
-    "structure": 1,
-    "curiosity": 0.33,
-    "ownership": 0.67
-   },
-   "postedAt": "2026-10-30T00:50:39.000Z",
-   "snippet": "Liquid Development was founded in 2000 and is the largest outsourcing art studio in North America. We offer a fun and cooperative work atmosphere, where collaboration is encouraged among a diversely talented team to remain on the cutting edge of content creation. Everyday Liquid Development is producing work at the…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/frima-studio/jobs/quality-assurance-analyst",
    "title": "Quality Assurance Analyst",
    "company": "Frima Studio",
@@ -5201,6 +5193,79 @@
    },
    "postedAt": "2026-10-29T09:18:59.000Z",
    "snippet": "Wolcen is looking for a passionate Senior Gameplay Animator interested in working within a multicultural team and with Unreal Engine 5 as we continue developing our next projects (Wolcen 2 and Gods, Death, and Reapers). This is a remote position. Please be mindful that we take into consideration only candidates based…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/prism-studio/jobs/art-director-1685003886",
+   "title": "Art Director",
+   "company": "Prism Studio",
+   "logo": "",
+   "url": "https://himalayas.app/companies/prism-studio/jobs/art-director-1685003886?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Albania",
+    "Austria",
+    "Belarus",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Kosovo",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Ukraine",
+    "United Kingdom"
+   ],
+   "regions": [],
+   "locationText": "Europe (40 countries)",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.75,
+    "unreal": 0.5,
+    "uiux": 0.5,
+    "art3d": 0.75,
+    "production": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.17,
+    "ownership": 0.17
+   },
+   "postedAt": "2026-10-29T09:18:59.000Z",
+   "snippet": "Art Director Heptic Arena — Full-Time — Remote (Europe) About Prism Studio Prism Studio is a Malta-based game development studio building unforgettable, player-first experiences with bold ideas and cutting-edge design. We're a small, cross-disciplined team, self-managing from wherever in the world we happen to be,…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/gameplay-data-capture-specialist-remote-contract",
@@ -5660,41 +5725,6 @@
    },
    "postedAt": "2026-10-28T13:11:07.000Z",
    "snippet": "This position is for temporary engagement through our staffing partner, Yoh Enterprise Solutions. This is a 6-month contract. Insomniac Games is looking for a Senior Combat Designer (Enemies/Bosses). In this role, the Senior Combat Designer (Enemies/Bosses) is accountable for the quality and on-time delivery of combat…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/urban-connect/jobs/founding-games-engineer-roblox-b2b",
-   "title": "Founding Games Engineer - Roblox - B2B",
-   "company": "Urban Connect",
-   "logo": "https://cdn-images.himalayas.app/0rztudknb2ornx5k9k1axl44vtr6",
-   "url": "https://himalayas.app/companies/urban-connect/jobs/founding-games-engineer-roblox-b2b?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Romania"
-   ],
-   "regions": [],
-   "locationText": "Romania",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.5,
-    "networking": 0.75,
-    "art3d": 0.88
-   },
-   "engines": [
-    "Roblox"
-   ],
-   "traits": {
-    "collab": 0.5,
-    "structure": 0.5,
-    "ownership": 1,
-    "composure": 0.5
-   },
-   "postedAt": "2026-10-27T19:31:46.000Z",
-   "snippet": "Job Location: remote from Romania Budget: 30-40 euro/h Recruitment process: HR discussion Technical interview Role description: Our client is a new company building technology that syncs real-world live sporting event data (motion and positional data) with gaming environments in real time, so players can experience…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/harold-jean-louis-inc/jobs/remote-internship-video-animator",
@@ -6580,6 +6610,35 @@
    "snippet": "No Grupo Stefanini , acreditamos no poder da colaboração. Co-criamos soluções inovadoras em parceria com nossos clientes, combinando tecnologia de ponta, inteligência artificial e a criatividade humana. Estamos na vanguarda da resolução de problemas de negócios, proporcionando impacto real em escala global. Ao se…"
   },
   {
+   "id": "himalayas:https://himalayas.app/companies/bitwise-alchemy/jobs/senior-software-engineer",
+   "title": "Senior Software Engineer",
+   "company": "Bitwise Alchemy",
+   "logo": "https://cdn-images.himalayas.app/rey4rd5crfnm5u9kltw83t5m03ie",
+   "url": "https://himalayas.app/companies/bitwise-alchemy/jobs/senior-software-engineer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Canada",
+    "United States"
+   ],
+   "regions": [],
+   "locationText": "Canada, United States",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.63
+   },
+   "engines": [],
+   "traits": {
+    "composure": 1
+   },
+   "postedAt": "2026-10-24T04:02:18.000Z",
+   "snippet": "Nocrunch.Nocore hours. Work the way that suitsyou. Bitwise Alchemy is a consulting studio that solves the tough problems for AAA studios and other game tech companies. Our growing team has decades of experience in AAA video game development building and leading large projects. We are looking for a Senior Software…"
+  },
+  {
    "id": "himalayas:https://himalayas.app/companies/playstation-global/jobs/senior-materials-level-artist",
    "title": "Senior Materials Level Artist",
    "company": "PlayStation Global",
@@ -6784,40 +6843,39 @@
    "snippet": "Astrid is a gaming studio that brings together accomplished worldbuilders and game developers to create multiplayer creative experiences. Our first project is a cooperative open-world sim, designed to foster connection, problem-solving, and shared discovery. Players embark on a profound social experience in a richly…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/playstation-global/jobs/staff-gameplay-designer-social-contract-8269705469",
-   "title": "Staff Gameplay Designer - Social (Contract)",
-   "company": "PlayStation Global",
-   "logo": "https://cdn-images.himalayas.app/ahlecwvd9pr3s51xuceo8bmm821q",
-   "url": "https://himalayas.app/companies/playstation-global/jobs/staff-gameplay-designer-social-contract-8269705469?utm_source=api",
+   "id": "himalayas:https://himalayas.app/companies/rev-star/jobs/game-design-sme-5569334381",
+   "title": "Game Design SME",
+   "company": "Rev Star",
+   "logo": "https://cdn-images.himalayas.app/mdcc1n06xi252li5xki0jb9eyhm6",
+   "url": "https://himalayas.app/companies/rev-star/jobs/game-design-sme-5569334381?utm_source=api",
    "source": "Himalayas",
    "sourceUrl": "https://himalayas.app",
    "remote": true,
    "worldwide": false,
    "countries": [
-    "United States"
+    "Brazil"
    ],
    "regions": [],
-   "locationText": "United States",
+   "locationText": "Brazil",
    "type": "Contractor",
    "salary": "",
-   "level": 4,
+   "level": 3,
    "skills": {
-    "gameplay": 1,
-    "networking": 0.5,
+    "gameplay": 0.5,
     "design": 1,
-    "art3d": 0.5,
-    "audio": 0.5
+    "uiux": 0.75
    },
    "engines": [],
    "traits": {
     "collab": 1,
-    "autonomy": 0.2,
-    "curiosity": 0.4,
-    "ownership": 0.2,
-    "composure": 0.6
+    "autonomy": 0.75,
+    "structure": 0.25,
+    "curiosity": 0.75,
+    "ownership": 0.5,
+    "composure": 0.25
    },
-   "postedAt": "2026-10-23T07:29:21.000Z",
-   "snippet": "Are you on a mission to create games that bond players together into deeply invested communities? Do you spend your time thinking about how different game mechanics can come together to create emergent, dynamic, and frankly hilarious social moments? Are you excited to make gameplay that strongly cares about player…"
+   "postedAt": "2026-10-23T08:34:57.000Z",
+   "snippet": "Build What Matters at RevStar Position: Game Design Subject Matter Expert Reports To: Product Manager/Engineering Lead Location : Remote Employment Type: Contract Job Summary We are seeking an experienced Game Design Subject Matter Expert (Visual & Systems) to serve as an independent contractor. In this capacity, the…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/proxima/jobs/senior-technical-3d-artist-character-focus",
@@ -6849,39 +6907,6 @@
    },
    "postedAt": "2026-10-23T02:53:23.000Z",
    "snippet": "Company: Proxima Studios (Creators of Suck Up!) Location: Remote / Flexible Role Type: Full-Time Contract or Permanent About Us We are the indie team behind Suck Up!, where we turned goofy social deduction and conversational AI into pure comedic chaos (with over 200m views on YouTube). Now, we are building our next…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/southern-new-hampshire-university/jobs/online-adjunct-faculty-developing-online-and-networked-games",
-   "title": "Online Adjunct Faculty - Developing Online and Networked Games",
-   "company": "Southern New Hampshire University",
-   "logo": "https://cdn-images.himalayas.app/8yup4eyycvbwgglevnsawbn9we2g",
-   "url": "https://himalayas.app/companies/southern-new-hampshire-university/jobs/online-adjunct-faculty-developing-online-and-networked-games?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "United States",
-   "type": "Part Time",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "networking": 1,
-    "art3d": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.5,
-    "autonomy": 0.5,
-    "curiosity": 1,
-    "ownership": 0.5,
-    "composure": 0.5
-   },
-   "postedAt": "2026-10-22T18:17:18.000Z",
-   "snippet": "Southern New Hampshire University is a team of innovators. World changers. Individuals who believe in progress with purpose. Since 1932, our people-centered strategy has defined us — and helped us grow a team that now serves over 180,000 learners worldwide. Our mission to transform lives is made possible by talented…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/cd-projekt-red/jobs/lead-quest-programmer",
@@ -6944,6 +6969,70 @@
    },
    "postedAt": "2026-10-22T06:08:25.000Z",
    "snippet": "We are looking for a seasoned Unity developer to join our team! Preferably the candidate should be able to work within European core hours. The job is fully remote. An ideal candidate has a strong knowledge of developing games using Unity. With a keen eye for detail, the candidate can code games that appease the…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/rbl-labs/jobs/ux-ui-designer-for-games",
+   "title": "UX/UI designer for games",
+   "company": "RBL Labs",
+   "logo": "https://cdn-images.himalayas.app/enj4bd0hgl6pllgiw42v47qzd7ef",
+   "url": "https://himalayas.app/companies/rbl-labs/jobs/ux-ui-designer-for-games?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Netherlands"
+   ],
+   "regions": [],
+   "locationText": "Netherlands",
+   "type": "Full Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "design": 0.75,
+    "uiux": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 1,
+    "composure": 1
+   },
+   "postedAt": "2026-10-22T01:02:12.000Z",
+   "snippet": "Key Responsibilities: Producing flows, wireframes, visual designs and final assets for integration into Unity Working closely with game designers, animators, VFX specialists and developers to identify UX requirements and technical solutions for graphical implementation Produce professional, considered and annotated…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/rbl-labs/jobs/art-director",
+   "title": "Art Director",
+   "company": "RBL Labs",
+   "logo": "https://cdn-images.himalayas.app/enj4bd0hgl6pllgiw42v47qzd7ef",
+   "url": "https://himalayas.app/companies/rbl-labs/jobs/art-director?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Netherlands"
+   ],
+   "regions": [],
+   "locationText": "Netherlands",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "graphics": 1,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "structure": 0.5,
+    "curiosity": 1,
+    "ownership": 0.5,
+    "composure": 1
+   },
+   "postedAt": "2026-10-22T00:25:04.000Z",
+   "snippet": "We are looking for an entrepreneurial Art and Design guru who is like a Shiva God with 6 hands can lead implementation of all art/design/UI/creative aspects that includes collectible cards, website, marketplace and mobile game. Key Responsibilities: Be responsible for the graphic design and style of the company -…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/red-point-labs/jobs/unity-game-developer-remote-ok",
@@ -7112,36 +7201,68 @@
    "snippet": "Rôle d'artiste technique, nécessitant des connaissances de base en gréement et en script Python. Capacité à écrire des scripts/outils Maya/Mobu robustes et prendre directement en charge les pipelines interdisciplinaires. Doit interagir fréquemment avec les parties prenantes, en guidant les conversations autour du…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/mixmob/jobs/game-producer",
-   "title": "Game Producer",
-   "company": "MixMob",
-   "logo": "",
-   "url": "https://himalayas.app/companies/mixmob/jobs/game-producer?utm_source=api",
+   "id": "himalayas:https://himalayas.app/companies/bungie/jobs/senior-investment-designer-rewards-and-commerce",
+   "title": "Senior Investment Designer (Rewards and Commerce)",
+   "company": "Bungie",
+   "logo": "https://cdn-images.himalayas.app/0bdn53o1l76spmqe4xs25qte8r2g",
+   "url": "https://himalayas.app/companies/bungie/jobs/senior-investment-designer-rewards-and-commerce?utm_source=api",
    "source": "Himalayas",
    "sourceUrl": "https://himalayas.app",
    "remote": true,
    "worldwide": false,
    "countries": [
-    "Canada"
+    "United States"
    ],
    "regions": [],
-   "locationText": "Canada",
+   "locationText": "United States",
    "type": "Full Time",
-   "salary": "",
+   "salary": "$124k–149k/yr",
    "level": 4,
    "skills": {
-    "production": 1
+    "gameplay": 0.75,
+    "design": 0.75
    },
    "engines": [],
    "traits": {
     "collab": 1,
-    "autonomy": 0.5,
-    "curiosity": 1,
-    "ownership": 1,
-    "composure": 0.5
+    "curiosity": 0.5
    },
-   "postedAt": "2026-10-21T05:28:28.000Z",
-   "snippet": "Our core mission is to empower a truly player-owned gaming platform that rewards creativity and style as much as skill and reflex. We believe that merging play-to-earn with user-generated content is the future of gaming and culture. We are growing like mad and are looking to hire a talented Game Producer. We believe…"
+   "postedAt": "2026-10-21T09:02:33.000Z",
+   "snippet": "Senior Investment Designer Do you dream about creating worlds imbued with real value and consequence? Can you imagine reward chases that excite and delight players without feeling like chores? Can you devise ways for players to meaningfully express themselves? If you answered yes to these questions, Bungie wants you…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/talent-spot-group/jobs/creative-director",
+   "title": "Creative Director",
+   "company": "Talent Spot Group",
+   "logo": "https://cdn-images.himalayas.app/55dm5wozh68f43ownzx3rzg9hvhm",
+   "url": "https://himalayas.app/companies/talent-spot-group/jobs/creative-director?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Singapore"
+   ],
+   "regions": [],
+   "locationText": "Singapore",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "unity": 0.5,
+    "uiux": 0.75,
+    "production": 0.5
+   },
+   "engines": [],
+   "traits": {
+    "collab": 0.67,
+    "structure": 0.33,
+    "curiosity": 0.67,
+    "ownership": 1,
+    "composure": 0.67
+   },
+   "postedAt": "2026-10-20T17:02:06.000Z",
+   "snippet": "We are seeking a Creative Director to build, develop and lead a team of creative individuals located both domestically and at overseas development centres. As the Creative Director, you will have the opportunity to work on our yet-to-be announced series of NFTs, play-to-earn games, game interfaces and game backoffice…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/goairship/jobs/vfx-artist",
@@ -7651,53 +7772,6 @@
    "snippet": "At Netflix , our mission is to entertain the world. Together, we are writing the next episode - pushing the boundaries of storytelling, global fandom and making the unimaginable a reality. We are a dream team obsessed with the uncomfortable excitement of discovering what happens when you merge creativity, intuition…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/xsolla/jobs/game-tech-lead-ue5-multiplayer-systems",
-   "title": "Game Tech Lead (UE5 / Multiplayer Systems)",
-   "company": "Xsolla",
-   "logo": "https://cdn-images.himalayas.app/7vgihn46xneh0fp0rtrhg9hq8m63",
-   "url": "https://himalayas.app/companies/xsolla/jobs/game-tech-lead-ue5-multiplayer-systems?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Armenia",
-    "Azerbaijan",
-    "Brazil",
-    "Canada",
-    "Cyprus",
-    "Georgia",
-    "Germany",
-    "Kazakhstan",
-    "Malaysia",
-    "Montenegro",
-    "Serbia",
-    "Spain",
-    "Turkey",
-    "United Arab Emirates",
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "Europe (15 countries)",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.75,
-    "unreal": 1,
-    "networking": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "curiosity": 0.5,
-    "ownership": 0.5,
-    "composure": 0.17
-   },
-   "postedAt": "2026-10-11T13:17:12.000Z",
-   "snippet": "ABOUT YOU We are looking for an experienced Game Tech Lead to drive the engineering direction of a next-generation immersive multiplayer platform built with Unreal Engine 5. This is a senior leadership role focused on gameplay systems, multiplayer architecture, scalability, and technical performance. You will work…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/vira-games/jobs/game-discovery-producer",
    "title": "Game Discovery Producer",
    "company": "Vira Games",
@@ -7975,44 +8049,6 @@
    "snippet": "Malta or remote, fulltime RESPONSIBILITIES: Integrating gameplay systems for various projects and games using provided engine and software available (Unreal 4 or proprietary engines) Iterative collaboration with Game Designers to achieve high-quality results and proactively address issues. Providing game designers…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/gardens-interactive/jobs/technical-game-designer-level",
-   "title": "Technical Game Designer (Level)",
-   "company": "Gardens Interactive",
-   "logo": "https://cdn-images.himalayas.app/88p5jnb4gy0vgxv6m35lca4i0cyt",
-   "url": "https://himalayas.app/companies/gardens-interactive/jobs/technical-game-designer-level?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Canada",
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "Canada, United States",
-   "type": "Full Time",
-   "salary": "$148k–164k/yr",
-   "level": 3,
-   "skills": {
-    "gameplay": 1,
-    "unreal": 0.88,
-    "networking": 1,
-    "design": 0.75,
-    "level": 0.63,
-    "qa": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.71,
-    "autonomy": 0.14,
-    "structure": 0.29,
-    "curiosity": 1,
-    "composure": 0.14
-   },
-   "postedAt": "2026-10-07T03:34:28.000Z",
-   "snippet": "At Gardens Interactive , we're building games centered on connection, collective adventure, and emergent stories. We believe the spirit with which we build games is reflected in the experiences our players have. The way we collaborate, solve problems, navigate uncertainty, and care for one another ultimately shapes…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/plummygames/jobs/senior-gamedev-engineer-c",
    "title": "Senior GameDev Engineer (C++)",
    "company": "Plummy Games",
@@ -8047,75 +8083,6 @@
    "snippet": "Plummy Games is a product-driven mobile gaming company focused on creating high-quality casual experiences for players worldwide. Our flagship game, Star Merge , is a successful F2P Merge-3 title recognized for its polished gameplay and stunning visuals. We’re a team that values creativity, ownership, and continuous…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/beamng-gmbh/jobs/senior-rendering-programmer-remote-onsite",
-   "title": "Senior Rendering Programmer (Remote/Onsite)",
-   "company": "BeamNG GmbH",
-   "logo": "https://cdn-images.himalayas.app/zvmi78xw6vbc36cpihzbrosy9mg2",
-   "url": "https://himalayas.app/companies/beamng-gmbh/jobs/senior-rendering-programmer-remote-onsite?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Germany",
-    "India",
-    "Poland",
-    "Romania",
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "Europe (5 countries)",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "graphics": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.67,
-    "autonomy": 0.67,
-    "structure": 0.33,
-    "curiosity": 1,
-    "ownership": 1,
-    "composure": 0.33
-   },
-   "postedAt": "2026-10-05T18:53:31.000Z",
-   "snippet": "Role description BeamNG is an independent game & software development studio, established in 2013 in Bremen, Germany. We are an international, remote-first team of almost 90 people. Our development focuses on state-of-the-art soft-body physics vehicle simulation, currently available as an early access videogame -…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/double-eleven/jobs/principal-low-level-graphics-programmer",
-   "title": "Principal Low-Level Graphics Programmer",
-   "company": "Double Eleven",
-   "logo": "https://cdn-images.himalayas.app/3czhm1lx3n2mjq1b77gthyig6btm",
-   "url": "https://himalayas.app/companies/double-eleven/jobs/principal-low-level-graphics-programmer?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "United Kingdom",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "graphics": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.4,
-    "curiosity": 0.4,
-    "ownership": 1,
-    "composure": 0.2
-   },
-   "postedAt": "2026-10-05T16:48:31.000Z",
-   "snippet": "We’re looking for a Principal Low-Level Graphics Programmer to join our award winning team in Middlesbrough (UK), home to the beautiful North Yorkshire coastline and countryside. As a Principal Low-Level Rendering Programmer, you will help architect, implement, and steer the technical vision for our next-generation…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/atari-inc/jobs/publishing-producer",
    "title": "Publishing Producer",
    "company": "Atari, Inc.",
@@ -8145,32 +8112,6 @@
    },
    "postedAt": "2026-10-05T15:34:06.000Z",
    "snippet": "Publishing Producer About Us Atari, one of the world's most iconic entertainment brands, is a pioneer in interactive entertainment. With operations spanning gaming, e-commerce, licensing, and hardware, Atari thrives at the intersection of innovation and legacy. Join our dynamic team and play a key role in shaping the…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/keywords-studios-plc/jobs/9930985593",
-   "title": "ゲームエンジンプログラマー",
-   "company": "Keywords Studios Plc",
-   "logo": "https://cdn-images.himalayas.app/l0mvkebddwgsd42q9g0cdg3j7bzw",
-   "url": "https://himalayas.app/companies/keywords-studios-plc/jobs/9930985593?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Japan"
-   ],
-   "regions": [],
-   "locationText": "Japan",
-   "type": "Full Time",
-   "salary": "JPY 4000k–6000k/yr",
-   "level": 4,
-   "skills": {
-    "unity": 0.5
-   },
-   "engines": [],
-   "traits": {},
-   "postedAt": "2026-10-03T02:53:42.000Z",
-   "snippet": "Wizcorpでは、次世代コンソール向けのエキサイティングなプロジェクトに携わるゲームエンジンプログラマーを募集しています。あなたのこれまでのご経歴、スキル、経験に応じて、当社のチーム内で最適なポジションをご紹介させていただきます。 このポジションに向いている方 👨‍🦰👩‍🦳🧑‍🦲 カスタムエンジンでの実務経験が数年あり、コンソール向けゲームのリリース経験をお持ちの方。C++を得意とし、エンジンアーキテクチャ自体に深く踏み込んで改善を行うことに抵抗がない方。 当てはまる方、ぜひご応募ください! 業務内容 🎮📆🕹️…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/transperfect/jobs/remote-freelance-game-lqa-tester-english-to-malay-6145305807",
@@ -8204,72 +8145,6 @@
    },
    "postedAt": "2026-10-03T02:01:54.000Z",
    "snippet": "TransPerfect Games is a leading provider of bespoke and flexible videogame services, offering a wide range of solutions including translation, functional and localization game testing, certification testing, focus group and playtesting, player support and community management, cybersecurity and penetration testing,…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/playstation-global/jobs/senior-game-engineer-graphics",
-   "title": "Senior Game Engineer - Graphics",
-   "company": "PlayStation Global",
-   "logo": "https://cdn-images.himalayas.app/ahlecwvd9pr3s51xuceo8bmm821q",
-   "url": "https://himalayas.app/companies/playstation-global/jobs/senior-game-engineer-graphics?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "United States",
-   "type": "Full Time",
-   "salary": "$160k–240k/yr",
-   "level": 4,
-   "skills": {
-    "gameplay": 1,
-    "unreal": 0.75,
-    "graphics": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.25,
-    "curiosity": 0.75,
-    "composure": 0.25
-   },
-   "postedAt": "2026-10-02T13:21:00.000Z",
-   "snippet": "Are you on a mission to create games that bond players together into deeply invested communities? Would you like to work on something comedic with lighthearted and whimsical characters? And are you excited to help push the visual quality, performance, and expressiveness of a rich, innovative game? As a Senior Game…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/playstation-global/jobs/staff-gameplay-engineer-systems-and-performance",
-   "title": "Staff Gameplay Engineer - Systems and Performance",
-   "company": "PlayStation Global",
-   "logo": "https://cdn-images.himalayas.app/ahlecwvd9pr3s51xuceo8bmm821q",
-   "url": "https://himalayas.app/companies/playstation-global/jobs/staff-gameplay-engineer-systems-and-performance?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "United States",
-   "type": "Full Time",
-   "salary": "$172k–259k/yr",
-   "level": 4,
-   "skills": {
-    "gameplay": 1,
-    "unreal": 0.5,
-    "networking": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "curiosity": 0.67,
-    "ownership": 0.33,
-    "composure": 0.33
-   },
-   "postedAt": "2026-10-02T07:23:29.000Z",
-   "snippet": "Are you on a mission to create games that bond players together into deeply invested communities? Would you like to work on something comedic with lighthearted and whimsical characters? And are you excited to build the systems and tools to help others create a rich, innovative game? As a Staff Gameplay Engineer –…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/meta4/jobs/senior-game-ai-programmer",
