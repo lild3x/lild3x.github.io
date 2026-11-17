@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-16T13:40:11.345Z",
+ "generatedAt": "2026-11-17T00:49:33.806Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 217
+   "jobs": 221
   },
   {
    "name": "Remotive",
@@ -14,10 +14,74 @@
   {
    "name": "Jobicy",
    "url": "https://jobicy.com",
-   "jobs": 1
+   "jobs": 0
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/micro1/jobs/unreal-engine-developer",
+   "title": "Unreal Engine Developer",
+   "company": "micro1",
+   "logo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+   "url": "https://himalayas.app/companies/micro1/jobs/unreal-engine-developer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": true,
+   "countries": [],
+   "regions": [],
+   "locationText": "Worldwide",
+   "type": "Contractor",
+   "salary": "$50–100/hr",
+   "level": 3,
+   "skills": {
+    "gameplay": 0.75,
+    "unreal": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "structure": 1,
+    "curiosity": 1
+   },
+   "postedAt": "2026-11-16T17:21:20.000Z",
+   "snippet": "Role Title: Unreal Engine Developer Role Type: Contractor Location: Remote micro1 is engaging experienced Unreal Engine Developers to contribute their technical expertise to a customer project focused on training next-generation AI systems. In this role, you'll apply your hands-on game development and C++ programming…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/fanatee/jobs/qa-analyst-ii",
+   "title": "QA Analyst II",
+   "company": "Fanatee",
+   "logo": "https://cdn-images.himalayas.app/z0luoqlfi66qgrlx6ndhgcrn5qhm",
+   "url": "https://himalayas.app/companies/fanatee/jobs/qa-analyst-ii?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Brazil"
+   ],
+   "regions": [],
+   "locationText": "Brazil",
+   "type": "Full Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "gameplay": 0.5,
+    "qa": 1,
+    "production": 0.5
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.25,
+    "structure": 0.75,
+    "curiosity": 0.75,
+    "ownership": 0.25,
+    "composure": 1
+   },
+   "postedAt": "2026-11-16T17:12:13.000Z",
+   "snippet": "About the position We're looking for a QA Analyst to join our Quality team and help ensure the quality of Fanatee 's mobile game portfolio. You'll work closely with developers, product, and design to catch issues before they reach our players, and help build a more efficient testing process as our games evolve. What…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/keywords-studios-plc/jobs/level-designer-6-month-ftc-freelance-contract-electric-square",
    "title": "Level Designer - 6 Month FTC/Freelance Contract, Electric Square",
@@ -227,38 +291,6 @@
    },
    "postedAt": "2026-11-16T07:12:13.000Z",
    "snippet": "Who are we? StoryToys, an independent subsidiary of Team17 Group plc, is a premier, award-winning developer and publisher of interactive educational apps designed to help children learn, play, and grow. We collaborate with the world’s most recognizable entertainment giants—including The LEGO Group, The Walt Disney…"
-  },
-  {
-   "id": "jobicy:155433",
-   "title": "UI Artist",
-   "company": "Moon Active",
-   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/5c90a117-221.jpeg",
-   "url": "https://jobicy.com/jobs/155433-ui-artist",
-   "source": "Jobicy",
-   "sourceUrl": "https://jobicy.com",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Spain"
-   ],
-   "regions": [],
-   "locationText": "Spain",
-   "type": "Full-Time",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "uiux": 1,
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.67,
-    "curiosity": 1,
-    "ownership": 0.33,
-    "composure": 0.33
-   },
-   "postedAt": "2026-11-16T03:20:06.000Z",
-   "snippet": "Moon Active is one of the world's fastest-growing mobile game companies, providing entertainment to millions of active users across the universe. We're looking for a UI Artist star for its top-notch, industry-leading product. As a Monetization Artist, you will be responsible for user experience, visual design concepts…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/storytoys/jobs/junior-level-2d-artist-ftc-12-months",
@@ -1593,6 +1625,35 @@
    "snippet": "This internship is a fantastic opportunity for beginner developers and technical artists without commercial experience to collaborate on a game for 5 weeks. The developed game will serve as a final project, and upon successful completion of the course, you will have the chance for employment within the company.…"
   },
   {
+   "id": "himalayas:https://himalayas.app/companies/nordic-investin-group/jobs/sound-designer-aivera-global",
+   "title": "Sound Designer, AIVERA GLOBAL",
+   "company": "Nordic Investin Group",
+   "logo": "https://cdn-images.himalayas.app/0rsknsghwkp4bzu8rsqj44s1xxos",
+   "url": "https://himalayas.app/companies/nordic-investin-group/jobs/sound-designer-aivera-global?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": true,
+   "countries": [],
+   "regions": [],
+   "locationText": "Worldwide",
+   "type": "Full Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "design": 0.75,
+    "audio": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.5,
+    "ownership": 0.5
+   },
+   "postedAt": "2026-11-06T18:04:48.000Z",
+   "snippet": "About AIVERA GLOBAL AIVERA GLOBAL builds AI education and training programs for universities, companies and professionals worldwide. Our programs are developed in collaboration with Prof. Philip Kotler and Prof. V Kumar. We produce our courses as cinematic films, and sound is a central part of how we tell each story.…"
+  },
+  {
    "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/godot-game-developer-remote-contract-2929219150",
    "title": "Godot Game Developer | Remote - Contract",
    "company": "Xperteez Technology",
@@ -1815,76 +1876,6 @@
    "traits": {},
    "postedAt": "2026-11-05T21:34:51.000Z",
    "snippet": "Job Title: Solar2D Game Developer Job Type: Contractor Location: Remote We are looking for experienced Solar2D developers to support an AI training project. In this role, you will use Solar2D to complete real-world 2D game development tasks and explain your workflows step by step. Your expertise will help improve how…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/homa-games/jobs/ai-creative-producer",
-   "title": "AI Creative Producer",
-   "company": "Homa Games",
-   "logo": "https://cdn-images.himalayas.app/we3259lqsgt4gnze7qnowcbnh9x0",
-   "url": "https://himalayas.app/companies/homa-games/jobs/ai-creative-producer?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Albania",
-    "Austria",
-    "Belarus",
-    "Belgium",
-    "Bosnia and Herzegovina",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Iceland",
-    "Ireland",
-    "Italy",
-    "Kosovo",
-    "Latvia",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Moldova",
-    "Montenegro",
-    "Netherlands",
-    "North Macedonia",
-    "Norway",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Serbia",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Sweden",
-    "Switzerland",
-    "Ukraine",
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "Europe (40 countries)",
-   "type": "Contractor",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "production": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.33,
-    "curiosity": 1,
-    "ownership": 1
-   },
-   "postedAt": "2026-11-05T21:28:58.000Z",
-   "snippet": "Homa is a global mobile game developer and publisher creating games people love. We partner with studios and internally develop games, having launched over 80 titles, reached over 2 billion downloads, and seen our game All in Hole break into the global top-50 grossing charts. These are milestones, not the finish line.…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/godot-game-engine-expert-remote-contract",
@@ -3280,6 +3271,33 @@
    },
    "postedAt": "2026-11-01T12:03:54.000Z",
    "snippet": "Job Context: Riseup Labs is looking for a UI/UX Designer to turn our software into easy-to-use products for our clients. Job Responsibilities: Collaborate with designers, artists, content producers, product and project managers, engineers, and business stakeholders to design best-in-class gaming experiences. Design…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/truck-world-studio/jobs/sound-designer",
+   "title": "Sound Designer",
+   "company": "Truck World Studio",
+   "logo": "https://cdn-images.himalayas.app/4mxo4viu8hnhbagpiz29w82nfxrq",
+   "url": "https://himalayas.app/companies/truck-world-studio/jobs/sound-designer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Poland"
+   ],
+   "regions": [],
+   "locationText": "Poland",
+   "type": "Full Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "design": 0.75,
+    "audio": 1
+   },
+   "engines": [],
+   "traits": {},
+   "postedAt": "2026-11-01T12:01:38.000Z",
+   "snippet": "To stanowisko pracy zdalnej. Tworzenie i implementacja efektów dźwiękowych do gry typu open-world truck simulator, praca z dźwiękami pojazdów i otoczenia, współpraca z zespołem developerskim oraz wdrażanie audio w FMOD. Requirements Doświadczenie na stanowisku Sound Designera, mile widziane projekty motoryzacyjne lub…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-korean-freelance-remote",
@@ -5312,79 +5330,6 @@
    "snippet": "Role Title: Game Developer Role Type: Contract Location: Remote In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/wolcen-studio/jobs/senior-gameplay-animator-9157408721",
-   "title": "Senior Gameplay Animator",
-   "company": "Wolcen Studio",
-   "logo": "",
-   "url": "https://himalayas.app/companies/wolcen-studio/jobs/senior-gameplay-animator-9157408721?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Albania",
-    "Austria",
-    "Belarus",
-    "Belgium",
-    "Bosnia and Herzegovina",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Iceland",
-    "Ireland",
-    "Italy",
-    "Kosovo",
-    "Latvia",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Moldova",
-    "Montenegro",
-    "Netherlands",
-    "North Macedonia",
-    "Norway",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Serbia",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Sweden",
-    "Switzerland",
-    "Ukraine",
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "Europe (40 countries)",
-   "type": "Contractor",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 1,
-    "unreal": 0.75,
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.17,
-    "curiosity": 0.83,
-    "ownership": 0.33,
-    "composure": 0.67
-   },
-   "postedAt": "2026-10-29T09:18:59.000Z",
-   "snippet": "Wolcen is looking for a passionate Senior Gameplay Animator interested in working within a multicultural team and with Unreal Engine 5 as we continue developing our next projects (Wolcen 2 and Gods, Death, and Reapers). This is a remote position. Please be mindful that we take into consideration only candidates based…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/prism-studio/jobs/lead-ux-ui-designer-8750788806",
    "title": "Lead UX/UI Designer",
    "company": "Prism Studio",
@@ -5458,6 +5403,79 @@
    },
    "postedAt": "2026-10-29T09:18:59.000Z",
    "snippet": "Lead UX/UI Designer Heptic Arena — Full-Time — Remote (Europe) About Prism Studio Prism Studio is a Malta-based game development studio making bold, player-first games. We're a small, cross-disciplinary team working remotely across Europe, with a culture built on ownership, trust and self-management. Our first title,…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/wolcen-studio/jobs/senior-gameplay-animator-9157408721",
+   "title": "Senior Gameplay Animator",
+   "company": "Wolcen Studio",
+   "logo": "",
+   "url": "https://himalayas.app/companies/wolcen-studio/jobs/senior-gameplay-animator-9157408721?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Albania",
+    "Austria",
+    "Belarus",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Denmark",
+    "Estonia",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Ireland",
+    "Italy",
+    "Kosovo",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Netherlands",
+    "North Macedonia",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Ukraine",
+    "United Kingdom"
+   ],
+   "regions": [],
+   "locationText": "Europe (40 countries)",
+   "type": "Contractor",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 1,
+    "unreal": 0.75,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.17,
+    "curiosity": 0.83,
+    "ownership": 0.33,
+    "composure": 0.67
+   },
+   "postedAt": "2026-10-29T09:18:59.000Z",
+   "snippet": "Wolcen is looking for a passionate Senior Gameplay Animator interested in working within a multicultural team and with Unreal Engine 5 as we continue developing our next projects (Wolcen 2 and Gods, Death, and Reapers). This is a remote position. Please be mindful that we take into consideration only candidates based…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/prism-studio/jobs/art-director-1685003886",
@@ -5697,6 +5715,38 @@
    },
    "postedAt": "2026-10-29T09:11:43.000Z",
    "snippet": "Game Engineer (remote, contract-to-hire, Latin America) Location: Latin America preferred (remote) Reports to: Director of Technical Production Engagement type: Full-time contract (40 hours/week), 5–6 months, with the intent to convert to a long-term role Language requirement: Professional or fluent in English;…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/softgames/jobs/freelance-sound-designer-project-based-fully-remote",
+   "title": "Freelance Sound Designer (Project Based) - Fully Remote",
+   "company": "SOFTGAMES",
+   "logo": "https://cdn-images.himalayas.app/vjvuefqw3o3s5uoar17mzlnnvz3q",
+   "url": "https://himalayas.app/companies/softgames/jobs/freelance-sound-designer-project-based-fully-remote?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Germany"
+   ],
+   "regions": [],
+   "locationText": "Germany",
+   "type": "Contractor",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "design": 0.75,
+    "audio": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 0.33,
+    "autonomy": 1,
+    "structure": 0.33,
+    "ownership": 0.67
+   },
+   "postedAt": "2026-10-29T09:11:19.000Z",
+   "snippet": "Softgames is looking for a Freelance Sound Designer (Project Based) to create the music and sound effects for a new, unannounced free-to-play casual game. The game is a bright, relaxing island world where players combine items, help customers and build a place of their own. It ships on Facebook Instant Games, the web…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/crystal-dynamics/jobs/presentation-design-intern-spring-2027",
@@ -6126,38 +6176,6 @@
    },
    "postedAt": "2026-10-25T13:58:15.000Z",
    "snippet": "About the Role High 5 Games is seeking a dedicated QA Engineer to help us build the next generation of land-based, online, mobile, and social games. We are looking for an outstanding software tester who thrives on hunting down bugs, has a keen eye for a flawless user experience, and possesses a genuine passion for the…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/crystal-dynamics/jobs/gameplay-engineer-intern-spring-2027",
-   "title": "Gameplay Engineer Intern [Spring 2027]",
-   "company": "Crystal Dynamics",
-   "logo": "https://cdn-images.himalayas.app/lqfige6rm5ztjtes2sz17wcdukub",
-   "url": "https://himalayas.app/companies/crystal-dynamics/jobs/gameplay-engineer-intern-spring-2027?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "United States",
-   "type": "Intern",
-   "salary": "",
-   "level": 1,
-   "skills": {
-    "gameplay": 1,
-    "unreal": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 0.25,
-    "ownership": 0.25,
-    "composure": 0.25
-   },
-   "postedAt": "2026-10-25T10:47:19.000Z",
-   "snippet": "Crystal Dynamics is constantly seeking the best gaming talent worldwide to add to our 30-plus year legacy of game development creating new and iconic franchises. We are committed to making great games with great people and living the dream while doing it. Benefits for our regular full-time positions include, but are…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/firesprite/jobs/cinematic-producer-production",
@@ -7945,6 +7963,39 @@
    },
    "postedAt": "2026-10-17T02:15:43.000Z",
    "snippet": "TO GET TIMELY UPDATES ON JOB OPENINGS, FEEL FREE TO JOIN OUR COMMUNITY @ (4L+ MEMBERS FROM 35+ COUNTRIES) Job Overview: As a Junior Unity 3D/Unreal Game Development Engineer, you will have the opportunity to contribute to the development and optimization of exciting gaming projects under the guidance of experienced…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/playtech/jobs/composer-sound-designer-9727996722",
+   "title": "Composer / Sound Designer",
+   "company": "Playtech",
+   "logo": "https://cdn-images.himalayas.app/ppuj84ue5uaak5rcelc88mrjk7mp",
+   "url": "https://himalayas.app/companies/playtech/jobs/composer-sound-designer-9727996722?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Bulgaria"
+   ],
+   "regions": [],
+   "locationText": "Bulgaria",
+   "type": "Full Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "design": 0.75,
+    "audio": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.2,
+    "structure": 0.2,
+    "curiosity": 0.6,
+    "ownership": 0.4
+   },
+   "postedAt": "2026-10-17T01:33:06.000Z",
+   "snippet": "Your influential mission. You will... Create in-game music in a variety of genres for online slot games. Design sound effects and musical parts for animations and game events. Prepare game packages in a variety of sound formats. Edit and mix sound for promo videos. Components for success. You... Possess 1+ years of…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/storytoys/jobs/2d-artist-ftc-6-months",
