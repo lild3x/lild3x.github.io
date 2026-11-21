@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-21T13:29:16.855Z",
+ "generatedAt": "2026-11-21T22:12:08.989Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 222
+   "jobs": 223
   },
   {
    "name": "Remotive",
@@ -18,6 +18,73 @@
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/dovetail-games-ltd/jobs/senior-technical-artist",
+   "title": "Senior Technical Artist",
+   "company": "Dovetail Games Ltd",
+   "logo": "https://cdn-images.himalayas.app/p9tjtd79auivkxe5znx2s4jv0a79",
+   "url": "https://himalayas.app/companies/dovetail-games-ltd/jobs/senior-technical-artist?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [],
+   "locationText": "United Kingdom",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "unreal": 0.75,
+    "graphics": 1,
+    "art3d": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "structure": 0.33,
+    "curiosity": 0.33,
+    "ownership": 1,
+    "composure": 0.33
+   },
+   "postedAt": "2026-11-21T18:49:21.000Z",
+   "snippet": "We are hiring a Senior Technical Artist to bridge art and engineering on our Unreal Engine rail simulation titles, helping deliver detailed locomotives, routes and environments that run smoothly across PC and console. You will set technical standards for the art pipeline and build the tools and shaders that help a…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/astrid-entertainment/jobs/senior-gameplay-engineer-characters",
+   "title": "Senior Gameplay Engineer - Characters",
+   "company": "Astrid Entertainment",
+   "logo": "",
+   "url": "https://himalayas.app/companies/astrid-entertainment/jobs/senior-gameplay-engineer-characters?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [],
+   "locationText": "United Kingdom",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 1,
+    "unreal": 0.63,
+    "networking": 0.5
+   },
+   "engines": [],
+   "traits": {
+    "collab": 0.67,
+    "curiosity": 1,
+    "ownership": 0.67,
+    "composure": 0.17
+   },
+   "postedAt": "2026-11-21T18:00:30.000Z",
+   "snippet": "Astrid is a gaming studio that brings together accomplished worldbuilders and game developers to create multiplayer creative experiences. Our first project is a cooperative open-world sim, designed to foster connection, problem-solving, and shared discovery. Players embark on a profound social experience in a richly…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/entity-games/jobs/senior-visual-designer",
    "title": "Senior Visual Designer",
@@ -108,7 +175,7 @@
    "regions": [],
    "locationText": "Pakistan",
    "type": "Contractor",
-   "salary": "$50–100/hr",
+   "salary": "",
    "level": 3,
    "skills": {
     "gameplay": 0.75,
@@ -139,7 +206,7 @@
    "regions": [],
    "locationText": "United Kingdom",
    "type": "Contractor",
-   "salary": "$25–60/hr",
+   "salary": "",
    "level": 3,
    "skills": {
     "gameplay": 1,
@@ -202,7 +269,7 @@
    "regions": [],
    "locationText": "Brazil",
    "type": "Contractor",
-   "salary": "$25–50/hr",
+   "salary": "",
    "level": 3,
    "skills": {
     "unreal": 0.75,
@@ -298,7 +365,7 @@
    "regions": [],
    "locationText": "United States",
    "type": "Contractor",
-   "salary": "$25–50/hr",
+   "salary": "",
    "level": 4,
    "skills": {
     "gameplay": 0.75,
@@ -461,7 +528,7 @@
    "regions": [],
    "locationText": "Philippines",
    "type": "Full Time",
-   "salary": "PHP 50k/mo",
+   "salary": "",
    "level": 3,
    "skills": {
     "qa": 1
@@ -494,7 +561,7 @@
    "regions": [],
    "locationText": "United States",
    "type": "Contractor",
-   "salary": "$50–100/hr",
+   "salary": "",
    "level": 3,
    "skills": {
     "gameplay": 0.75,
@@ -532,7 +599,7 @@
    "regions": [],
    "locationText": "Europe (8 countries)",
    "type": "Contractor",
-   "salary": "$20–60/hr",
+   "salary": "",
    "level": 3,
    "skills": {
     "gameplay": 1
@@ -738,7 +805,7 @@
    "regions": [],
    "locationText": "United States",
    "type": "Contractor",
-   "salary": "$50–100/hr",
+   "salary": "",
    "level": 3,
    "skills": {
     "gameplay": 0.75,
@@ -2158,37 +2225,6 @@
    },
    "postedAt": "2026-11-19T17:22:19.000Z",
    "snippet": "Your influential mission. You will... Create in-game music in a variety of genres for online slot games. Design sound effects and musical parts for animations and game events. Prepare game packages in a variety of sound formats. Edit and mix sound for promo videos. Components for success. You... Possess 1+ years of…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/keywords-studios-plc/jobs/lighting-artist",
-   "title": "Lighting Artist",
-   "company": "Keywords Studios Plc",
-   "logo": "https://cdn-images.himalayas.app/l0mvkebddwgsd42q9g0cdg3j7bzw",
-   "url": "https://himalayas.app/companies/keywords-studios-plc/jobs/lighting-artist?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Japan"
-   ],
-   "regions": [],
-   "locationText": "Japan",
-   "type": "Contractor",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "narrative": 0.5,
-    "art3d": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 0.14,
-    "curiosity": 0.43
-   },
-   "postedAt": "2026-11-19T17:18:12.000Z",
-   "snippet": "Applicants must be currently residing in Japan and possess valid authorization to work in Japan. Lighting Creation Create high-quality, visually compelling lighting for environments and cinematics. Produce lighting that aligns with the project’s artistic direction and storytelling, through mood, tone and atmosphere.…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-ukrainian-freelance-remote",
@@ -7732,7 +7768,7 @@
    "regions": [],
    "locationText": "United States",
    "type": "Full Time",
-   "salary": "$160–300/hr",
+   "salary": "",
    "level": 3,
    "skills": {
     "gameplay": 0.75
@@ -7916,7 +7952,7 @@
    "regions": [],
    "locationText": "Worldwide",
    "type": "Contractor",
-   "salary": "$50–100/hr",
+   "salary": "",
    "level": 3,
    "skills": {
     "gameplay": 0.75,
@@ -7947,7 +7983,7 @@
    "regions": [],
    "locationText": "United States",
    "type": "Contractor",
-   "salary": "$25–60/hr",
+   "salary": "",
    "level": 3,
    "skills": {
     "gameplay": 1,
