@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-21T22:12:08.989Z",
+ "generatedAt": "2026-11-22T13:22:21.853Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 223
+   "jobs": 221
   },
   {
    "name": "Remotive",
@@ -14,10 +14,274 @@
   {
    "name": "Jobicy",
    "url": "https://jobicy.com",
-   "jobs": 0
+   "jobs": 3
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/softgames/jobs/ui-designer-casual-games-freelance-remote",
+   "title": "UI Designer - Casual Games (Freelance Remote)",
+   "company": "SOFTGAMES",
+   "logo": "https://cdn-images.himalayas.app/vjvuefqw3o3s5uoar17mzlnnvz3q",
+   "url": "https://himalayas.app/companies/softgames/jobs/ui-designer-casual-games-freelance-remote?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Germany"
+   ],
+   "regions": [],
+   "locationText": "Germany",
+   "type": "Contractor",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "design": 0.75,
+    "uiux": 1
+   },
+   "engines": [],
+   "traits": {
+    "autonomy": 1,
+    "curiosity": 1,
+    "ownership": 1
+   },
+   "postedAt": "2026-11-22T07:24:43.000Z",
+   "snippet": "We’re looking for a UI designer who loves casual games. You know what makes a game feel intuitive and fun to play, and you can turn that into clean, good-looking UI. You’ll be assisting the SOHO Art team and reporting directly to our Game Art Lead. Heads up: we’ll ask you to do a short graphics assignment as part of…"
+  },
+  {
+   "id": "jobicy:163809",
+   "title": "Customer Success Producer (South Korea)",
+   "company": "Aghanim",
+   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/3e63b01e00b7-221.webp",
+   "url": "https://jobicy.com/jobs/163809-customer-success-producer-south-korea",
+   "source": "Jobicy",
+   "sourceUrl": "https://jobicy.com",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "South Korea"
+   ],
+   "regions": [],
+   "locationText": "South Korea",
+   "type": "Full-Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "production": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.2,
+    "structure": 0.2,
+    "curiosity": 0.4,
+    "ownership": 0.6
+   },
+   "postedAt": "2026-11-22T05:54:49.000Z",
+   "snippet": "Aghanim is an integrated commerce, liveops automation, community engagement, and payments platform for video games. Mobile games have traditionally depended on app stores for distribution, payments, and player relationships. We believe there is a better way. Aghanim helps game studios build direct relationships with…"
+  },
+  {
+   "id": "jobicy:163806",
+   "title": "Customer Success Producer (China)",
+   "company": "Aghanim",
+   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/3e63b01e00b7-221.webp",
+   "url": "https://jobicy.com/jobs/163806-customer-success-producer-china",
+   "source": "Jobicy",
+   "sourceUrl": "https://jobicy.com",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "China"
+   ],
+   "regions": [],
+   "locationText": "China",
+   "type": "Full-Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "production": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.2,
+    "structure": 0.2,
+    "curiosity": 0.4,
+    "ownership": 0.6
+   },
+   "postedAt": "2026-11-22T05:54:44.000Z",
+   "snippet": "Aghanim is an integrated commerce, liveops automation, community engagement, and payments platform for video games. Mobile games have traditionally depended on app stores for distribution, payments, and player relationships. We believe there is a better way. Aghanim helps game studios build direct relationships with…"
+  },
+  {
+   "id": "jobicy:163801",
+   "title": "Customer Success Producer (Japan)",
+   "company": "Aghanim",
+   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/3e63b01e00b7-221.webp",
+   "url": "https://jobicy.com/jobs/163801-customer-success-producer-japan",
+   "source": "Jobicy",
+   "sourceUrl": "https://jobicy.com",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Japan"
+   ],
+   "regions": [],
+   "locationText": "Japan",
+   "type": "Full-Time",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "production": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.2,
+    "structure": 0.2,
+    "curiosity": 0.4,
+    "ownership": 0.6
+   },
+   "postedAt": "2026-11-22T05:54:35.000Z",
+   "snippet": "Aghanim is an integrated commerce, liveops automation, community engagement, and payments platform for video games. Mobile games have traditionally depended on app stores for distribution, payments, and player relationships. We believe there is a better way. Aghanim helps game studios build direct relationships with…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/superplay/jobs/middle-qa-manual-engineer",
+   "title": "Middle QA Manual Engineer",
+   "company": "SuperPlay",
+   "logo": "https://cdn-images.himalayas.app/hl6vezbucbhbac5qkpy4npbf0kuw",
+   "url": "https://himalayas.app/companies/superplay/jobs/middle-qa-manual-engineer?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Poland"
+   ],
+   "regions": [],
+   "locationText": "Poland",
+   "type": "Contractor",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "qa": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 1
+   },
+   "postedAt": "2026-11-22T00:55:13.000Z",
+   "snippet": "Description Come and join a rapidly expanding mobile games company! Who are we? SuperPlay is a leading gaming company dedicated to creating unforgettable mobile gaming experiences. Founded in 2019 by industry experts from Playtika and Rovio, the company strives to develop innovative and exciting casual games that…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/stillfront/jobs/qa-automation-engineer-mobile-games-freelance",
+   "title": "QA Automation Engineer, Mobile Games - Freelance",
+   "company": "Stillfront",
+   "logo": "https://cdn-images.himalayas.app/w2b2ws191l7wdtggetznd8rm6x2h",
+   "url": "https://himalayas.app/companies/stillfront/jobs/qa-automation-engineer-mobile-games-freelance?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Albania",
+    "Algeria",
+    "Armenia",
+    "Austria",
+    "Azerbaijan",
+    "Bahrain",
+    "Belarus",
+    "Belgium",
+    "Bosnia and Herzegovina",
+    "Botswana",
+    "Bulgaria",
+    "Cameroon",
+    "Croatia",
+    "Cyprus",
+    "Czechia",
+    "Ivory Coast",
+    "Denmark",
+    "Egypt",
+    "Estonia",
+    "Ethiopia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Ghana",
+    "Greece",
+    "Hungary",
+    "Iceland",
+    "Iraq",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Jordan",
+    "Kazakhstan",
+    "Kenya",
+    "Kosovo",
+    "Kuwait",
+    "Latvia",
+    "Lebanon",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Mauritius",
+    "Moldova",
+    "Montenegro",
+    "Morocco",
+    "Namibia",
+    "Netherlands",
+    "Nigeria",
+    "North Macedonia",
+    "Norway",
+    "Oman",
+    "Poland",
+    "Portugal",
+    "Qatar",
+    "Romania",
+    "Rwanda",
+    "Saudi Arabia",
+    "Senegal",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "South Africa",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "Tanzania",
+    "Tunisia",
+    "Turkey",
+    "Uganda",
+    "Ukraine",
+    "United Arab Emirates",
+    "United Kingdom",
+    "Uzbekistan",
+    "Zambia",
+    "Zimbabwe"
+   ],
+   "regions": [],
+   "locationText": "Europe (76 countries)",
+   "type": "Contractor",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "unity": 0.88,
+    "qa": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 1,
+    "structure": 1,
+    "ownership": 1,
+    "composure": 1
+   },
+   "postedAt": "2026-11-22T00:28:34.000Z",
+   "snippet": "Empire: Four Kingdoms launched in January 2013 and is the world’s all-time highest-grossing app produced by a German company. It is part of our Empire brand, which has passed €1 billion in revenue and 220 million registered players. Now we are moving the game from Adobe AIR to Unity. Quality is the heart of that move:…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/dovetail-games-ltd/jobs/senior-technical-artist",
    "title": "Senior Technical Artist",
@@ -1223,35 +1487,6 @@
    },
    "postedAt": "2026-11-19T18:05:35.000Z",
    "snippet": "Sound and Music Creation: Craft captivating sounds and music that enhance the player experience in our slot games, crush games, and more Audio Content Integration: Seamlessly integrate audio content into our projects to ensure a seamless and immersive gaming experience Sound Issue Support: Be the go-to expert for…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/clipt/jobs/smart-nonsense-video-editor-animator",
-   "title": "Smart Nonsense Video Editor/Animator",
-   "company": "Clipt",
-   "logo": "https://cdn-images.himalayas.app/4w0rs9f9rn5nxn351tqf3ug2df9x",
-   "url": "https://himalayas.app/companies/clipt/jobs/smart-nonsense-video-editor-animator?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Philippines"
-   ],
-   "regions": [],
-   "locationText": "Philippines",
-   "type": "Full Time",
-   "salary": "PHP 90k/mo",
-   "level": 3,
-   "skills": {
-    "art3d": 1,
-    "audio": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "curiosity": 1
-   },
-   "postedAt": "2026-11-19T18:00:09.000Z",
-   "snippet": "Can you animate funny videos like this? 👇 Why CAPTCHAs are getting so hard.. The Smartest Woman of all time I'm building the next Duolingo What if you don't turn on airplane mode?? If so, welcome to Smart Nonsense — your creative playground 🌈 We turn ideas into binge-worthy stories that make learning fun — and…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/playstation-global/jobs/senior-game-engineer-graphics",
@@ -4564,39 +4799,6 @@
    "snippet": "Crystal Dynamics is constantly seeking the best gaming talent worldwide to add to our 30-plus year legacy of game development creating new and iconic franchises. We are committed to making great games with great people and living the dream while doing it. Benefits for our regular full-time positions include, but are…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/coolgames-com/jobs/economy-balancing-game-designer-casual-html5-games-remote-fulltime",
-   "title": "Economy & Balancing Game Designer - Casual HTML5 Games (remote, fulltime)",
-   "company": "CoolGames",
-   "logo": "",
-   "url": "https://himalayas.app/companies/coolgames-com/jobs/economy-balancing-game-designer-casual-html5-games-remote-fulltime?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Netherlands"
-   ],
-   "regions": [],
-   "locationText": "Netherlands",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "design": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.25,
-    "structure": 0.25,
-    "curiosity": 0.75,
-    "ownership": 1,
-    "composure": 0.25
-   },
-   "postedAt": "2026-11-19T17:02:34.000Z",
-   "snippet": "We are looking for an experienced Economy & Balancing Game Designer who can design, model, and tune the economies, progression, and reward systems of casual HTML5 games played by millions of people worldwide. As part of one of our multidisciplinary game development teams, you will design, model, balance, test, and…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/homa-games/jobs/senior-level-designer",
    "title": "Senior Level Designer",
    "company": "Homa Games",
@@ -7108,36 +7310,6 @@
    "snippet": "At SOFTGAMES , we’re looking for a Senior Game Producer to lead one of our most exciting casual games on Facebook Instant. You’ll be at the heart of a small, agile team, defining the product vision, shaping the creative direction, and driving the roadmap for a game with significant growth potential. We’re looking for…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/first-citizens/jobs/senior-software-engineer",
-   "title": "Senior Software Engineer",
-   "company": "First Citizens",
-   "logo": "https://cdn-images.himalayas.app/61f72fcpwa6iwurxump9955ikayo",
-   "url": "https://himalayas.app/companies/first-citizens/jobs/senior-software-engineer?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "United States",
-   "type": "Full Time",
-   "salary": "$120k–150k/yr",
-   "level": 4,
-   "skills": {
-    "unity": 0.75,
-    "qa": 0.5
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 1
-   },
-   "postedAt": "2026-11-19T16:45:21.000Z",
-   "snippet": "Overview This position provides complex technical support to data processing systems through enhancement of related software and processes. Develops software and procedures that improve processing capabilities. Analyzes, codes, tests, and implements in coordination with management, associates, and end users. Serves as…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/walla-walla-studio/jobs/3d-environment-tech-artist-unity",
    "title": "3D Environment/Tech artist (Unity)",
    "company": "Walla Walla Studio",
@@ -8195,38 +8367,6 @@
    "snippet": "Role Title: Godot Game Developer Role Type: Contractor Location: Remote micro1 is engaging Godot Game Developers to participate in a dynamic project for a valued customer, focusing on crafting engaging interactive experiences using the Godot engine. In this role, you'll apply your expertise to help train…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/kwanii/jobs/frontend-game-developer-wfh-full-time",
-   "title": "Frontend Game Developer (WFH, Full Time)",
-   "company": "Kwanii",
-   "logo": "https://cdn-images.himalayas.app/iazbjmdu9rptelllujr9pz99uzih",
-   "url": "https://himalayas.app/companies/kwanii/jobs/frontend-game-developer-wfh-full-time?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Australia",
-    "Philippines"
-   ],
-   "regions": [],
-   "locationText": "Australia, Philippines",
-   "type": "Full Time",
-   "salary": "",
-   "level": 2,
-   "skills": {
-    "gameplay": 1,
-    "uiux": 0.88
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.75,
-    "structure": 1,
-    "composure": 0.25
-   },
-   "postedAt": "2026-11-01T12:08:47.000Z",
-   "snippet": "As a Junior Frontend Game Developer , you excel in creating engaging and responsive user interfaces for web-based games and gaming platforms. You demonstrate proficiency in modern frontend technologies including React.js, TypeScript, and state management solutions, contributing to seamless player experiences. Your…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/axiom-recruit/jobs/ux-ui-games-designer-metaverse",
    "title": "UX/UI Games Designer - Metaverse",
    "company": "Axiom Recruit",
@@ -8676,38 +8816,6 @@
    },
    "postedAt": "2026-10-08T14:21:52.000Z",
    "snippet": "- Malta or remote, fulltime RESPONSIBILITIES: Integrating AI behavior and systems for various projects and games using provided engine and software available (Unreal 4 or proprietary engines) Collaborating with Game Designers to achieve high-quality results and proactively address issues. Providing game designers with…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/hr-plus-talent-limited/jobs/project-manager-game-producer-startup-mobile-gaming-35-50k-2690805486",
-   "title": "Project Manager / Game Producer (Startup, Mobile Gaming 35-50k)",
-   "company": "HR Plus (Talent) Limited",
-   "logo": "https://cdn-images.himalayas.app/33qvg20s4bqbpf7ce8y8ov9elgx0",
-   "url": "https://himalayas.app/companies/hr-plus-talent-limited/jobs/project-manager-game-producer-startup-mobile-gaming-35-50k-2690805486?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Hong Kong"
-   ],
-   "regions": [],
-   "locationText": "Hong Kong",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.5,
-    "production": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 0.4,
-    "ownership": 0.2,
-    "composure": 0.8
-   },
-   "postedAt": "2026-10-08T09:46:07.000Z",
-   "snippet": "About the Role: Join an exciting startup company dedicated to setting up an office in Hong Kong and working closely with the chairman in end-to-end mobile game publishing and operation. As a Gaming Project Manager/Game Producer, you will have the opportunity to gain hands-on experience in establishing the Hong Kong…"
   }
  ]
 }
