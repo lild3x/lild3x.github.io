@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T15:54:08.857Z",
+ "generatedAt": "2026-11-25T01:26:21.558Z",
  "sources": [
   {
    "name": "Himalayas",
@@ -14,75 +14,39 @@
   {
    "name": "Jobicy",
    "url": "https://jobicy.com",
-   "jobs": 2
+   "jobs": 0
   }
  ],
  "jobs": [
   {
-   "id": "jobicy:164045",
-   "title": "Generative Motion Artist",
-   "company": "Moon Active",
-   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/08/5c90a117-221.jpeg",
-   "url": "https://jobicy.com/jobs/164045-generative-motion-artist",
-   "source": "Jobicy",
-   "sourceUrl": "https://jobicy.com",
+   "id": "himalayas:https://himalayas.app/companies/generate-design/jobs/senior-software-engineer-for-disruptive-architecture-industry-startup-c-unrea",
+   "title": "Senior Software Engineer for Disruptive Architecture Industry Startup (C++/Unrea",
+   "company": "Generate",
+   "logo": "",
+   "url": "https://himalayas.app/companies/generate-design/jobs/senior-software-engineer-for-disruptive-architecture-industry-startup-c-unrea?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
    "remote": true,
    "worldwide": false,
    "countries": [
-    "Spain"
+    "United States"
    ],
    "regions": [],
-   "locationText": "Spain",
-   "type": "Full-Time",
+   "locationText": "United States",
+   "type": "Full Time",
    "salary": "",
-   "level": 3,
+   "level": 4,
    "skills": {
-    "gameplay": 0.75,
-    "narrative": 0.75,
-    "art3d": 1
+    "unreal": 0.75
    },
    "engines": [],
    "traits": {
     "collab": 1,
-    "autonomy": 1,
-    "curiosity": 0.5,
-    "ownership": 1,
-    "composure": 1
+    "autonomy": 0.4,
+    "curiosity": 0.8
    },
-   "postedAt": "2026-11-24T09:29:04.000Z",
-   "snippet": "Moon Active , a leading global mobile game developer entertaining millions worldwide, is seeking a highly skilled and creative Generative Motion Artist to join the in-house video creative team of our Marketing Art Studio. In this role, you will own video ad creatives end to end, from brief to delivery, across our…"
-  },
-  {
-   "id": "jobicy:164042",
-   "title": "Customer Success Producer (Vietnam)",
-   "company": "Aghanim",
-   "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2026/11/3e63b01e00b7-221.webp",
-   "url": "https://jobicy.com/jobs/164042-customer-success-producer-vietnam",
-   "source": "Jobicy",
-   "sourceUrl": "https://jobicy.com",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Vietnam"
-   ],
-   "regions": [],
-   "locationText": "Vietnam",
-   "type": "Full-Time",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "production": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.2,
-    "structure": 0.2,
-    "curiosity": 0.4,
-    "ownership": 0.6
-   },
-   "postedAt": "2026-11-24T09:28:58.000Z",
-   "snippet": "Aghanim is an integrated commerce, liveops automation, community engagement, and payments platform for video games. Mobile games have traditionally depended on app stores for distribution, payments, and player relationships. We believe there is a better way. Aghanim helps game studios build direct relationships with…"
+   "postedAt": "2026-11-24T19:30:21.000Z",
+   "snippet": "OUR MISSION Generate is a Boston-based MIT-spin off technology company with the mission to digitize one of the world’s largest and least digital industries: the 12-trillion-dollar Architecture, Engineering, and Construction (AEC) sector. We are bringing the many innovations and techniques from state-of-the-art gaming…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/micro1/jobs/game-developer",
@@ -628,6 +592,74 @@
    },
    "postedAt": "2026-11-20T16:52:31.000Z",
    "snippet": "About the company Side (formerly PTW) is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in Japan in 1994, Side has grown to become a global force in the video games industry, with over 40 studios…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-japanese-freelance-remote",
+   "title": "LQA Game Tester (Japanese) - Freelance Remote",
+   "company": "Pole To Win International",
+   "logo": "https://cdn-images.himalayas.app/bjv749hefvaj3nwcmavfy202pfg9",
+   "url": "https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-japanese-freelance-remote?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Belgium",
+    "France",
+    "Germany",
+    "Luxembourg",
+    "Netherlands",
+    "Switzerland"
+   ],
+   "regions": [],
+   "locationText": "Europe (6 countries)",
+   "type": "Contractor",
+   "salary": "",
+   "level": 2,
+   "skills": {
+    "gameplay": 0.5,
+    "qa": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "structure": 0.25,
+    "curiosity": 0.25
+   },
+   "postedAt": "2026-11-20T16:52:31.000Z",
+   "snippet": "About the company Side is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in 2009 and drawing on 30+ years' experience from our parent company in Japan, Side has since grown to become a global force…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/duelit/jobs/mobile-qa-automation-engineer-3666914886",
+   "title": "Mobile QA Automation Engineer",
+   "company": "Duelit",
+   "logo": "https://cdn-images.himalayas.app/cvnzri6foli8vhfeebqt6245rttp",
+   "url": "https://himalayas.app/companies/duelit/jobs/mobile-qa-automation-engineer-3666914886?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Spain"
+   ],
+   "regions": [],
+   "locationText": "Spain",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "qa": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 1,
+    "structure": 1,
+    "curiosity": 0.5,
+    "composure": 0.5
+   },
+   "postedAt": "2026-11-20T16:52:00.000Z",
+   "snippet": "We are currently looking for an experienced QA Engineer, that will own the whole QA process from integration testing on the server by setting up continuous integration framework, to scheduled app testing with automated tests for both of our iOS and Android apps. In this role, you will get to be in the front-lines of…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/softgames/jobs/senior-game-designer-systems-economy-fully-remote",
@@ -1687,36 +1719,6 @@
    },
    "postedAt": "2026-11-19T17:58:04.000Z",
    "snippet": "This is a remote position. MLC Studio is on the lookout for a Producer who thrives in interpersonal skills, independent problem solving and quick execution. This role is a 7-month contract position starting as early as April. This role is only available to applicants residing in the UK. Webelieve in strong ownership…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/generate-design/jobs/senior-software-engineer-for-disruptive-architecture-industry-startup-c-unrea",
-   "title": "Senior Software Engineer for Disruptive Architecture Industry Startup (C++/Unrea",
-   "company": "Generate",
-   "logo": "",
-   "url": "https://himalayas.app/companies/generate-design/jobs/senior-software-engineer-for-disruptive-architecture-industry-startup-c-unrea?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "United States",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "unreal": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.4,
-    "curiosity": 0.8
-   },
-   "postedAt": "2026-11-19T17:57:23.000Z",
-   "snippet": "OUR MISSION Generate is a Boston-based MIT-spin off technology company with the mission to digitize one of the world’s largest and least digital industries: the 12-trillion-dollar Architecture, Engineering, and Construction (AEC) sector. We are bringing the many innovations and techniques from state-of-the-art gaming…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/meta4/jobs/senior-game-ai-programmer",
@@ -4062,6 +4064,37 @@
    "snippet": "Nocrunch.Nocore hours. Work the way that suitsyou. Bitwise Alchemy is a consulting studio that solves the tough problems for AAA studios and other game tech companies. Our growing team has decades of experience in AAA video game development building and leading large projects. We are looking for a Senior Software…"
   },
   {
+   "id": "himalayas:https://himalayas.app/companies/devoted-studios/jobs/senior-unity-engineer-full-stack",
+   "title": "Senior Unity Engineer (Full-Stack)",
+   "company": "Devoted Studios",
+   "logo": "https://cdn-images.himalayas.app/b322chb8wzahtftjz1l6avmscvj2",
+   "url": "https://himalayas.app/companies/devoted-studios/jobs/senior-unity-engineer-full-stack?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Argentina"
+   ],
+   "regions": [],
+   "locationText": "Argentina",
+   "type": "Contractor",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.75,
+    "unity": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.67,
+    "composure": 0.33
+   },
+   "postedAt": "2026-11-19T17:06:54.000Z",
+   "snippet": "Devoted Studios is a globally remote game development company specializing in Co-development, Porting, and End-to-End Art Production for the global gaming industry. We collaborate across time zones to support projects on all major platforms, engines and styles - from AAA titles to emerging technologies. Our team…"
+  },
+  {
    "id": "himalayas:https://himalayas.app/companies/astrid-entertainment/jobs/senior-gameplay-engineer",
    "title": "Senior Gameplay Engineer",
    "company": "Astrid Entertainment",
@@ -4093,37 +4126,6 @@
    },
    "postedAt": "2026-11-19T17:06:54.000Z",
    "snippet": "Astrid is a gaming studio that brings together accomplished worldbuilders and game developers to create multiplayer creative experiences. Our first project is a cooperative open-world sim, designed to foster connection, problem-solving, and shared discovery. Players embark on a profound social experience in a richly…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/devoted-studios/jobs/senior-unity-engineer-full-stack",
-   "title": "Senior Unity Engineer (Full-Stack)",
-   "company": "Devoted Studios",
-   "logo": "https://cdn-images.himalayas.app/b322chb8wzahtftjz1l6avmscvj2",
-   "url": "https://himalayas.app/companies/devoted-studios/jobs/senior-unity-engineer-full-stack?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Argentina"
-   ],
-   "regions": [],
-   "locationText": "Argentina",
-   "type": "Contractor",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.75,
-    "unity": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "curiosity": 0.67,
-    "composure": 0.33
-   },
-   "postedAt": "2026-11-19T17:06:54.000Z",
-   "snippet": "Devoted Studios is a globally remote game development company specializing in Co-development, Porting, and End-to-End Art Production for the global gaming industry. We collaborate across time zones to support projects on all major platforms, engines and styles - from AAA titles to emerging technologies. Our team…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/fabstation/jobs/intermediate-xr-3d-engineer",
@@ -7095,35 +7097,6 @@
    "snippet": "ABOUT YOU We are working on a hardcore medieval sandbox MMORPG built around player-driven gameplay, crafting, resource management, territorial warfare, and complex economic and progression systems.The project features a mature and highly interconnected gameplay ecosystem and is currently undergoing an active…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/nordic-investin-group/jobs/sound-designer-aivera-global",
-   "title": "Sound Designer, AIVERA GLOBAL",
-   "company": "Nordic Investin Group",
-   "logo": "https://cdn-images.himalayas.app/0rsknsghwkp4bzu8rsqj44s1xxos",
-   "url": "https://himalayas.app/companies/nordic-investin-group/jobs/sound-designer-aivera-global?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": true,
-   "countries": [],
-   "regions": [],
-   "locationText": "Worldwide",
-   "type": "Full Time",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "design": 0.75,
-    "audio": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "curiosity": 0.5,
-    "ownership": 0.5
-   },
-   "postedAt": "2026-11-19T16:53:10.000Z",
-   "snippet": "About AIVERA GLOBAL AIVERA GLOBAL builds AI education and training programs for universities, companies and professionals worldwide. Our programs are developed in collaboration with Prof. Philip Kotler and Prof. V Kumar. We produce our courses as cinematic films, and sound is a central part of how we tell each story.…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/modsquad/jobs/remote-technical-customer-support-qa-and-game-dev",
    "title": "Remote Technical Customer Support - QA and Game Dev",
    "company": "ModSquad",
@@ -7477,40 +7450,6 @@
    },
    "postedAt": "2026-11-19T16:48:47.000Z",
    "snippet": "Design Director Reports to: CEO Employment Status: Permanent / Full Time Work Location: Vancouver, British Columbia or Montreal, Quebec, Canada (remote or in office) Overview Final Strike Games is an independent game-development studio with a passion for creating world-class multiplayer, shooter, and live-service…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/insomniac-games/jobs/senior-mission-designer-contract",
-   "title": "Senior Mission Designer (CONTRACT)",
-   "company": "Insomniac Games",
-   "logo": "https://cdn-images.himalayas.app/0eozxphgf3b16uprj7jvt69i2w3z",
-   "url": "https://himalayas.app/companies/insomniac-games/jobs/senior-mission-designer-contract?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United States"
-   ],
-   "regions": [],
-   "locationText": "United States",
-   "type": "Contractor",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 0.75,
-    "design": 1,
-    "narrative": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "structure": 0.14,
-    "curiosity": 0.71,
-    "ownership": 0.29,
-    "composure": 0.14
-   },
-   "postedAt": "2026-11-19T16:48:35.000Z",
-   "snippet": "This position is for temporary engagement through our staffing partner, Yoh Enterprise Solutions. This is a 6-month contract. Insomniac is looking for a Contract Senior Mission Designer. This contract role is accountable for the quality and on-time delivery of one or more full mission experiences, including initial…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/alex-staff-agency/jobs/head-of-publishing-mobile-and-browser-f2p-games",
