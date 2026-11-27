@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-27T01:01:02.495Z",
+ "generatedAt": "2026-11-27T15:06:29.330Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 235
+   "jobs": 232
   },
   {
    "name": "Remotive",
@@ -821,35 +821,6 @@
    },
    "postedAt": "2026-11-24T19:30:21.000Z",
    "snippet": "OUR MISSION Generate is a Boston-based MIT-spin off technology company with the mission to digitize one of the world’s largest and least digital industries: the 12-trillion-dollar Architecture, Engineering, and Construction (AEC) sector. We are bringing the many innovations and techniques from state-of-the-art gaming…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/micro1/jobs/game-developer",
-   "title": "Game Developer",
-   "company": "micro1",
-   "logo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
-   "url": "https://himalayas.app/companies/micro1/jobs/game-developer?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": true,
-   "countries": [],
-   "regions": [],
-   "locationText": "Worldwide",
-   "type": "Contractor",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "gameplay": 1,
-    "qa": 0.75
-   },
-   "engines": [],
-   "traits": {
-    "collab": 0.5,
-    "structure": 1,
-    "curiosity": 0.5
-   },
-   "postedAt": "2026-11-23T18:20:22.000Z",
-   "snippet": "Role Title: Game Developer Role Type: Contractor Location: Remote micro1 is engaging Game Developers to contribute to a pioneering customer project focused on evaluating and advancing AI capabilities in the domain of game creation and interaction. In this role, you'll apply your expertise to help train next-generation…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/urban-connect/jobs/founding-games-engineer-roblox-b2b",
@@ -3488,36 +3459,6 @@
    "snippet": "Airship is the leading end-to-end external art and co-development studio for the global gaming industry. We've partnered with some of the biggest names in gaming— EA, 2K, Guerrilla, Sony, 343 Industries, Ubisoft, and Microsoft —to bring their flagship titles to life with stunning visuals and seamless development…"
   },
   {
-   "id": "himalayas:https://himalayas.app/companies/goairship/jobs/animator",
-   "title": "Animator",
-   "company": "Airship",
-   "logo": "https://cdn-images.himalayas.app/votks84l5lui1l0s6b64p41hbsds",
-   "url": "https://himalayas.app/companies/goairship/jobs/animator?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "United Kingdom",
-   "type": "Contractor",
-   "salary": "",
-   "level": 3,
-   "skills": {
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "curiosity": 1,
-    "ownership": 0.5,
-    "composure": 0.5
-   },
-   "postedAt": "2026-11-19T17:14:30.000Z",
-   "snippet": "Airship is the leading end-to-end external art and co-development studio for the global gaming industry. We've partnered with some of the biggest names in gaming— EA, 2K, Guerrilla, Sony, 343 Industries, Ubisoft, and Microsoft —to bring their flagship titles to life with stunning visuals and seamless development…"
-  },
-  {
    "id": "himalayas:https://himalayas.app/companies/truck-world-studio/jobs/sound-designer",
    "title": "Sound Designer",
    "company": "Truck World Studio",
@@ -3543,38 +3484,6 @@
    "traits": {},
    "postedAt": "2026-11-19T17:14:30.000Z",
    "snippet": "To stanowisko pracy zdalnej. Tworzenie i implementacja efektów dźwiękowych do gry typu open-world truck simulator, praca z dźwiękami pojazdów i otoczenia, współpraca z zespołem developerskim oraz wdrażanie audio w FMOD. Requirements Doświadczenie na stanowisku Sound Designera, mile widziane projekty motoryzacyjne lub…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/people-can-fly/jobs/animateur-trice-de-jouabilite-senior-e-senior-gameplay-animator-remote",
-   "title": "Animateur(-trice) de jouabilité sénior(e) / Senior Gameplay Animator - Remote",
-   "company": "People Can Fly",
-   "logo": "https://cdn-images.himalayas.app/5889pjnihoh7ijl60bq5k7iqd0hz",
-   "url": "https://himalayas.app/companies/people-can-fly/jobs/animateur-trice-de-jouabilite-senior-e-senior-gameplay-animator-remote?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Canada"
-   ],
-   "regions": [],
-   "locationText": "Canada",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "gameplay": 1,
-    "unreal": 0.5,
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 0.5,
-    "curiosity": 0.75
-   },
-   "postedAt": "2026-11-19T17:11:38.000Z",
-   "snippet": "Suivre la vision établie de l’histoire et du jeu dans la création des animations. Créer du contenu de haute qualité en utilisant à la fois des animations Handkey et des données de capture de mouvement. Développer des animations qui soutiennent le déroulement du jeu et les éléments visuels. Mettre en œuvre et itérer…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/mixmob/jobs/game-producer",
