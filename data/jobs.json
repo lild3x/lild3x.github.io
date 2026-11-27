@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-26T15:18:15.933Z",
+ "generatedAt": "2026-11-27T01:01:02.495Z",
  "sources": [
   {
    "name": "Himalayas",
    "url": "https://himalayas.app",
-   "jobs": 231
+   "jobs": 235
   },
   {
    "name": "Remotive",
@@ -18,6 +18,104 @@
   }
  ],
  "jobs": [
+  {
+   "id": "himalayas:https://himalayas.app/companies/ilogos-game-studios/jobs/2d-concept-artist-stylized-dark",
+   "title": "2D Concept Artist (Stylized, dark)",
+   "company": "iLogos Game Studios",
+   "logo": "https://cdn-images.himalayas.app/a2h12d2uwghdrsw96ohte7r3ukbm",
+   "url": "https://himalayas.app/companies/ilogos-game-studios/jobs/2d-concept-artist-stylized-dark?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Estonia"
+   ],
+   "regions": [],
+   "locationText": "Estonia",
+   "type": "Contractor",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "networking": 0.75,
+    "art3d": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "structure": 0.25,
+    "curiosity": 0.25,
+    "ownership": 0.25,
+    "composure": 0.25
+   },
+   "postedAt": "2026-11-26T20:31:18.000Z",
+   "snippet": "iLogos Game Studios provides solutions for mobile game developers no matter how challenging the project or task is. We’ve been around since 2006 and in that time frame, we have successfully completed 400+ projects and have become a partner of choice for EA, Sony, Disney, Rovio, Ubisoft, and many other companies. We’re…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/ilogos-game-studios/jobs/senior-3d-character-artist-stylized-mobile-games",
+   "title": "Senior 3D Character Artist (Stylized / Mobile Games)",
+   "company": "iLogos Game Studios",
+   "logo": "https://cdn-images.himalayas.app/a2h12d2uwghdrsw96ohte7r3ukbm",
+   "url": "https://himalayas.app/companies/ilogos-game-studios/jobs/senior-3d-character-artist-stylized-mobile-games?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Estonia"
+   ],
+   "regions": [],
+   "locationText": "Estonia",
+   "type": "Contractor",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 0.5,
+    "unity": 0.75,
+    "networking": 0.75,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.5,
+    "structure": 0.5,
+    "composure": 0.5
+   },
+   "postedAt": "2026-11-26T18:03:18.000Z",
+   "snippet": "iLogos Game Studios provides solutions for mobile game developers no matter how challenging the project or task is. We’ve been around since 2006 and in that time frame, we have successfully completed 400+ projects and have become a partner of choice for EA, Sony, Disney, Rovio, Ubisoft, and many other companies. We’re…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/ilogos-game-studios/jobs/2d-concept-artist-stylized-cartoon-mobile-games",
+   "title": "2D Concept Artist (Stylized Cartoon / Mobile Games)",
+   "company": "iLogos Game Studios",
+   "logo": "https://cdn-images.himalayas.app/a2h12d2uwghdrsw96ohte7r3ukbm",
+   "url": "https://himalayas.app/companies/ilogos-game-studios/jobs/2d-concept-artist-stylized-cartoon-mobile-games?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Estonia"
+   ],
+   "regions": [],
+   "locationText": "Estonia",
+   "type": "Contractor",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "art3d": 0.75
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "curiosity": 0.33,
+    "ownership": 0.33,
+    "composure": 0.33
+   },
+   "postedAt": "2026-11-26T18:01:37.000Z",
+   "snippet": "iLogos Game Studios provides solutions for mobile game developers no matter how challenging the project or task is. We’ve been around since 2006 and in that time frame, we have successfully completed 400+ projects and have become a partner of choice for EA, Sony, Disney, Rovio, Ubisoft, and many other companies. We're…"
+  },
   {
    "id": "himalayas:https://himalayas.app/companies/vira-games/jobs/ai-game-architect",
    "title": "AI Game Architect",
@@ -3390,6 +3488,36 @@
    "snippet": "Airship is the leading end-to-end external art and co-development studio for the global gaming industry. We've partnered with some of the biggest names in gaming— EA, 2K, Guerrilla, Sony, 343 Industries, Ubisoft, and Microsoft —to bring their flagship titles to life with stunning visuals and seamless development…"
   },
   {
+   "id": "himalayas:https://himalayas.app/companies/goairship/jobs/animator",
+   "title": "Animator",
+   "company": "Airship",
+   "logo": "https://cdn-images.himalayas.app/votks84l5lui1l0s6b64p41hbsds",
+   "url": "https://himalayas.app/companies/goairship/jobs/animator?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "United Kingdom"
+   ],
+   "regions": [],
+   "locationText": "United Kingdom",
+   "type": "Contractor",
+   "salary": "",
+   "level": 3,
+   "skills": {
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "curiosity": 1,
+    "ownership": 0.5,
+    "composure": 0.5
+   },
+   "postedAt": "2026-11-19T17:14:30.000Z",
+   "snippet": "Airship is the leading end-to-end external art and co-development studio for the global gaming industry. We've partnered with some of the biggest names in gaming— EA, 2K, Guerrilla, Sony, 343 Industries, Ubisoft, and Microsoft —to bring their flagship titles to life with stunning visuals and seamless development…"
+  },
+  {
    "id": "himalayas:https://himalayas.app/companies/truck-world-studio/jobs/sound-designer",
    "title": "Sound Designer",
    "company": "Truck World Studio",
@@ -3415,6 +3543,38 @@
    "traits": {},
    "postedAt": "2026-11-19T17:14:30.000Z",
    "snippet": "To stanowisko pracy zdalnej. Tworzenie i implementacja efektów dźwiękowych do gry typu open-world truck simulator, praca z dźwiękami pojazdów i otoczenia, współpraca z zespołem developerskim oraz wdrażanie audio w FMOD. Requirements Doświadczenie na stanowisku Sound Designera, mile widziane projekty motoryzacyjne lub…"
+  },
+  {
+   "id": "himalayas:https://himalayas.app/companies/people-can-fly/jobs/animateur-trice-de-jouabilite-senior-e-senior-gameplay-animator-remote",
+   "title": "Animateur(-trice) de jouabilité sénior(e) / Senior Gameplay Animator - Remote",
+   "company": "People Can Fly",
+   "logo": "https://cdn-images.himalayas.app/5889pjnihoh7ijl60bq5k7iqd0hz",
+   "url": "https://himalayas.app/companies/people-can-fly/jobs/animateur-trice-de-jouabilite-senior-e-senior-gameplay-animator-remote?utm_source=api",
+   "source": "Himalayas",
+   "sourceUrl": "https://himalayas.app",
+   "remote": true,
+   "worldwide": false,
+   "countries": [
+    "Canada"
+   ],
+   "regions": [],
+   "locationText": "Canada",
+   "type": "Full Time",
+   "salary": "",
+   "level": 4,
+   "skills": {
+    "gameplay": 1,
+    "unreal": 0.5,
+    "art3d": 1
+   },
+   "engines": [],
+   "traits": {
+    "collab": 1,
+    "autonomy": 0.5,
+    "curiosity": 0.75
+   },
+   "postedAt": "2026-11-19T17:11:38.000Z",
+   "snippet": "Suivre la vision établie de l’histoire et du jeu dans la création des animations. Créer du contenu de haute qualité en utilisant à la fois des animations Handkey et des données de capture de mouvement. Développer des animations qui soutiennent le déroulement du jeu et les éléments visuels. Mettre en œuvre et itérer…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/mixmob/jobs/game-producer",
@@ -4406,78 +4566,6 @@
    },
    "postedAt": "2026-11-19T17:07:11.000Z",
    "snippet": "Location: Fully Remote, United States Position Type: Full-Time Clearance: U.S. citizenship is required. The candidate must be eligible to obtain and maintain federal suitability, a government-issued PIV credential, and required system access. The Opportunity TeamWorx Security is seeking a Senior Data Engineer to…"
-  },
-  {
-   "id": "himalayas:https://himalayas.app/companies/flying-bark-productions/jobs/senior-3d-animator-madrid",
-   "title": "Senior 3D Animator (Madrid)",
-   "company": "Flying Bark Productions",
-   "logo": "https://cdn-images.himalayas.app/pwa99jkqub7azentxqnqdfgyp2sp",
-   "url": "https://himalayas.app/companies/flying-bark-productions/jobs/senior-3d-animator-madrid?utm_source=api",
-   "source": "Himalayas",
-   "sourceUrl": "https://himalayas.app",
-   "remote": true,
-   "worldwide": false,
-   "countries": [
-    "Albania",
-    "Austria",
-    "Belarus",
-    "Belgium",
-    "Bosnia and Herzegovina",
-    "Bulgaria",
-    "Croatia",
-    "Cyprus",
-    "Czechia",
-    "Denmark",
-    "Estonia",
-    "Finland",
-    "France",
-    "Germany",
-    "Greece",
-    "Hungary",
-    "Iceland",
-    "Ireland",
-    "Italy",
-    "Kosovo",
-    "Latvia",
-    "Lithuania",
-    "Luxembourg",
-    "Malta",
-    "Moldova",
-    "Montenegro",
-    "Netherlands",
-    "North Macedonia",
-    "Norway",
-    "Poland",
-    "Portugal",
-    "Romania",
-    "Serbia",
-    "Slovakia",
-    "Slovenia",
-    "Spain",
-    "Sweden",
-    "Switzerland",
-    "Ukraine",
-    "United Kingdom"
-   ],
-   "regions": [],
-   "locationText": "Europe (40 countries)",
-   "type": "Full Time",
-   "salary": "",
-   "level": 4,
-   "skills": {
-    "narrative": 0.75,
-    "art3d": 1
-   },
-   "engines": [],
-   "traits": {
-    "collab": 1,
-    "autonomy": 1,
-    "curiosity": 1,
-    "ownership": 0.5,
-    "composure": 1
-   },
-   "postedAt": "2026-11-19T17:07:11.000Z",
-   "snippet": "Flying Bark Productions is a dynamic and innovative animation studio dedicated to pushing the boundaries of character animation and storytelling. We have a number of exciting productions underway, including a new 2D project with Disney, Netflix's Ghostbusters animated series and Stranger Things animated series, as…"
   },
   {
    "id": "himalayas:https://himalayas.app/companies/bitwise-alchemy/jobs/senior-software-engineer",
